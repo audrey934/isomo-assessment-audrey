@@ -1,13 +1,8 @@
 import pandas as pd
-import psycopg2
+import os
+from db import get_connection
 
-# --- Connection ---
-conn = psycopg2.connect(
-    dbname="isomo",
-    user="audrey",
-    password="DataF001",
-    host="localhost"
-)
+conn = get_connection()
 cur = conn.cursor()
 
 # --- Create schema ---
