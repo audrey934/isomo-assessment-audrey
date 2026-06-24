@@ -20,6 +20,7 @@ Usage:
 import re
 import csv
 import difflib
+import itertools
 from pathlib import Path
 
 REPO_ROOT   = Path(__file__).resolve().parent.parent
@@ -53,16 +54,7 @@ class LearnerResolver:
     # ------------------------------------------------------------------
     # Primary entry point
     # ------------------------------------------------------------------
-
     def resolve(self, username_raw: str) -> dict:
-        """
-        Resolve a raw username (email, plain name, or SSO token) to a learner_id.
-
-        Returns dict with keys:
-            learner_id   — our ID_LRN_XXXXXX, or None
-            match_route  — one of the tier labels above
-            note         — extra detail (candidate list, fuzzy score, etc.)
-        """
         if not username_raw or not str(username_raw).strip():
             return self._result(None, "unmatched", "empty username")
 
@@ -73,7 +65,14 @@ class LearnerResolver:
 
         prefix = u.split("@")[0] if "@" in u else u
 
-        # --- Strategy 1 & 2: structural (initial+lastname, token-concat) ---
+        # --- Strategy 1: exact full-name match (order-invariant) — check this FIRST ---
+        ns = _norm_sorted(prefix)
+        if ns in self._norm_sorted_names:
+            idx   = self._norm_sorted_names.index(ns)
+            canon = self.students[idx]
+            return self._result(self.id_map[canon], "matched_exact", canon)
+
+        # --- Strategy 2 & 3: structural (initial+lastname, any-two-token-concat) ---
         cands = self._structural_candidates(_norm(prefix))
 
         if len(cands) == 1:
@@ -84,14 +83,6 @@ class LearnerResolver:
                 None, "ambiguous",
                 "multiple candidates: " + "; ".join(cands)
             )
-
-        # --- Strategy 3: full-name match (for Quill/Northstar plain names) ---
-        # Try direct sorted-token match first (exact order-invariant)
-        ns = _norm_sorted(prefix)
-        if ns in self._norm_sorted_names:
-            idx   = self._norm_sorted_names.index(ns)
-            canon = self.students[idx]
-            return self._result(self.id_map[canon], "matched_exact", canon)
 
         # --- Strategy 4: fuzzy ---
         close = difflib.get_close_matches(_norm(prefix), self._norm_names, n=1, cutoff=0.75)
@@ -135,11 +126,13 @@ class LearnerResolver:
 
         if not cands:
             for s in self.students:
-                parts = s.lower().split()
-                if len(parts) >= 2:
-                    if (_norm(parts[0] + parts[1]) == prefix_norm or
-                            _norm(parts[1] + parts[0]) == prefix_norm):
+                parts = [p for p in s.lower().split() if p]
+                if len(parts) < 2:
+                    continue
+                for a, b in itertools.combinations(parts, 2):
+                    if _norm(a + b) == prefix_norm or _norm(b + a) == prefix_norm:
                         cands.append(s)
+                        break
 
         return list(dict.fromkeys(cands))
 
