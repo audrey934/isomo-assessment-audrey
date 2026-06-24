@@ -1,4 +1,4 @@
-#Cleaning Log
+# Cleaning Log
 
 ## master_student.csv
 - Rows: 1,002
