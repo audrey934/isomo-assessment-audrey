@@ -1,5 +1,5 @@
 """
-Layer 2 — Generate stable, unique learner_id and school_id values
+Generates stable, unique learner_id and school_id values
 and produce mapping tables linking each new ID back to the source fields.
 
 Run from the repo root:
