@@ -1,124 +1,151 @@
-import pandas as pd
-import difflib
+"""
+learner_resolver.py
+-------------------
+Resolves a raw username or email to an internal learner_id from learner_id_mapping.csv.
+
+Match tiers (stored in match_route):
+  matched_exact   — single structural candidate (initial+lastname or token-concat)
+  matched_fuzzy   — single fuzzy candidate at cutoff 0.75; less certain
+  ambiguous       — multiple structural candidates; cannot safely pick one
+  unresolvable    — MD5 hash username; structurally unmatchable
+  unmatched       — no candidate found by any strategy
+
+Usage:
+    from learner_resolver import LearnerResolver
+    resolver = LearnerResolver()
+    result   = resolver.resolve("cmutabaruka@icircles.rw")
+    # result["learner_id"], result["match_route"], result["note"]
+"""
+
 import re
+import csv
+import difflib
+from pathlib import Path
+
+REPO_ROOT   = Path(__file__).resolve().parent.parent
+ID_MAPPING  = REPO_ROOT / "data" / "learner_id_mapping.csv"
+
+
+def _norm(s: str) -> str:
+    """Strip all non-alphanumeric chars and lowercase."""
+    return re.sub(r"[^a-z0-9]", "", s.lower())
+
+
+def _norm_sorted(s: str) -> str:
+    """Lowercase, alpha-only tokens, sorted — order-invariant name comparison."""
+    tokens = re.sub(r"[^a-z ]", "", s.lower()).split()
+    return " ".join(sorted(tokens))
 
 
 class LearnerResolver:
-    def __init__(self, master_student_path):
-        self.master = pd.read_csv(master_student_path)
+    def __init__(self):
+        self.students: list[str] = []
+        self.id_map:   dict[str, str] = {}
 
-        # Lookup tables
-        self.email_to_id = {}
-        self.external_id_to_id = {}
-        self.name_to_id = {}
+        with open(ID_MAPPING, newline="", encoding="utf-8") as f:
+            for row in csv.DictReader(f):
+                self.students.append(row["canonical_name"])
+                self.id_map[row["canonical_name"]] = row["learner_id"]
 
-        for _, row in self.master.iterrows():
-            learner_id = row["learner_id"]
+        self._norm_names        = [_norm(s) for s in self.students]
+        self._norm_sorted_names = [_norm_sorted(s) for s in self.students]
 
-            # NAME (normalized consistently)
-            if "canonical_name" in row and pd.notna(row["canonical_name"]):
-                name = self.normalize_name(row["canonical_name"])
-                self.name_to_id[name] = learner_id
+    # ------------------------------------------------------------------
+    # Primary entry point
+    # ------------------------------------------------------------------
 
-            # EXTERNAL ID (optional)
-            if "external_learner_id" in row and pd.notna(row["external_learner_id"]):
-                self.external_id_to_id[row["external_learner_id"]] = learner_id
+    def resolve(self, username_raw: str) -> dict:
+        """
+        Resolve a raw username (email, plain name, or SSO token) to a learner_id.
 
-            # EMAIL (optional)
-            if "email" in row and pd.notna(row["email"]):
-                self.email_to_id[row["email"].lower().strip()] = learner_id
+        Returns dict with keys:
+            learner_id   — our ID_LRN_XXXXXX, or None
+            match_route  — one of the tier labels above
+            note         — extra detail (candidate list, fuzzy score, etc.)
+        """
+        if not username_raw or not str(username_raw).strip():
+            return self._result(None, "unmatched", "empty username")
 
-    # ---------------------------
-    # NAME NORMALIZATION (FIXED)
-    # ---------------------------
-    def normalize_name(self, name: str):
-        if not name:
-            return ""
+        u = str(username_raw).strip()
 
-        name = name.lower().strip()
-        name = re.sub(r"[^a-z0-9 ]", " ", name)
-        name = re.sub(r"\s+", " ", name).strip()
+        if re.match(r"^[a-f0-9]{32}$", u):
+            return self._result(None, "unresolvable", "MD5 hash — structurally unmatchable")
 
-        parts = name.split()
+        prefix = u.split("@")[0] if "@" in u else u
 
-        # sort tokens so "David Munyampeta" == "Munyampeta David"
-        if len(parts) >= 2:
-            return " ".join(sorted(parts))
+        # --- Strategy 1 & 2: structural (initial+lastname, token-concat) ---
+        cands = self._structural_candidates(_norm(prefix))
 
-        return name
+        if len(cands) == 1:
+            return self._result(self.id_map[cands[0]], "matched_exact", cands[0])
 
-    # ---------------------------
-    # GENERAL NORMALIZATION
-    # ---------------------------
-    def normalize(self, text):
-        if not text:
-            return ""
-        text = text.lower().strip()
-        text = re.sub(r"[^a-z0-9 ]", " ", text)
-        text = re.sub(r"\s+", " ", text)
-        return text
-
-    # ---------------------------
-    # MAIN RESOLVE FUNCTION
-    # ---------------------------
-    def resolve(self, email=None, external_id=None, name=None, source_system=None):
-
-        # 1. EMAIL MATCH
-        if email:
-            email = email.lower().strip()
-            if email in self.email_to_id:
-                return self.build_result(
-                    self.email_to_id[email],
-                    "email_exact",
-                    0.99,
-                    source_system
-                )
-
-        # 2. EXTERNAL ID MATCH
-        if external_id:
-            if external_id in self.external_id_to_id:
-                return self.build_result(
-                    self.external_id_to_id[external_id],
-                    "external_id_exact",
-                    0.97,
-                    source_system
-                )
-
-        # 3. NAME FUZZY MATCH (FIXED NORMALIZATION)
-        if name:
-            norm_name = self.normalize_name(name)
-
-            matches = difflib.get_close_matches(
-                norm_name,
-                self.name_to_id.keys(),
-                n=1,
-                cutoff=0.8
+        if len(cands) > 1:
+            return self._result(
+                None, "ambiguous",
+                "multiple candidates: " + "; ".join(cands)
             )
 
-            if matches:
-                matched_name = matches[0]
-                return self.build_result(
-                    self.name_to_id[matched_name],
-                    "name_fuzzy",
-                    0.75,
-                    source_system
-                )
+        # --- Strategy 3: full-name match (for Quill/Northstar plain names) ---
+        # Try direct sorted-token match first (exact order-invariant)
+        ns = _norm_sorted(prefix)
+        if ns in self._norm_sorted_names:
+            idx   = self._norm_sorted_names.index(ns)
+            canon = self.students[idx]
+            return self._result(self.id_map[canon], "matched_exact", canon)
 
-        # 4. UNRESOLVED
-        return {
-            "internal_learner_id": None,
-            "match_route": "unresolved",
-            "confidence": 0.0,
-            "source_system": source_system
-        }
+        # --- Strategy 4: fuzzy ---
+        close = difflib.get_close_matches(_norm(prefix), self._norm_names, n=1, cutoff=0.75)
+        if close:
+            idx   = self._norm_names.index(close[0])
+            canon = self.students[idx]
+            score = difflib.SequenceMatcher(None, _norm(prefix), close[0]).ratio()
+            return self._result(
+                self.id_map[canon], "matched_fuzzy",
+                f"{canon} (score={score:.2f})"
+            )
 
-    # ---------------------------
-    # OUTPUT FORMAT
-    # ---------------------------
-    def build_result(self, learner_id, route, confidence, source_system):
+        return self._result(None, "unmatched", "no candidate found")
+
+    # ------------------------------------------------------------------
+    # Internal helpers
+    # ------------------------------------------------------------------
+
+    def _structural_candidates(self, prefix_norm: str) -> list[str]:
+        """
+        Strategy 1 — initial + lastname:
+          'cmutabaruka' matches 'Chania Ikirezi Mutabaruka'
+          (c = first char of 'Chania', mutabaruka = token)
+
+        Strategy 2 — concatenated tokens (any order):
+          'agasaroorion' matches 'Orion Agasaro'
+        """
+        cands = []
+
+        for s in self.students:
+            parts = s.lower().split()
+            found = False
+            for i, part in enumerate(parts):
+                for j, other in enumerate(parts):
+                    if i != j and other and prefix_norm == _norm(other[0] + part):
+                        cands.append(s)
+                        found = True
+                        break
+                if found:
+                    break
+
+        if not cands:
+            for s in self.students:
+                parts = s.lower().split()
+                if len(parts) >= 2:
+                    if (_norm(parts[0] + parts[1]) == prefix_norm or
+                            _norm(parts[1] + parts[0]) == prefix_norm):
+                        cands.append(s)
+
+        return list(dict.fromkeys(cands))
+
+    def _result(self, learner_id, match_route, note) -> dict:
         return {
-            "internal_learner_id": learner_id,
-            "match_route": route,
-            "confidence": confidence,
-            "source_system": source_system
+            "learner_id":   learner_id,
+            "match_route":  match_route,
+            "note":         note,
         }
