@@ -1,2 +1,5 @@
 raw/
 *.zip
+.env 
+analysis/__pycache__
+__pycache__
