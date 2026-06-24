@@ -42,6 +42,7 @@ class LearnerResolver:
     def __init__(self):
         self.students: list[str] = []
         self.id_map:   dict[str, str] = {}
+        
 
         with open(ID_MAPPING, newline="", encoding="utf-8") as f:
             for row in csv.DictReader(f):
@@ -50,6 +51,7 @@ class LearnerResolver:
 
         self._norm_names        = [_norm(s) for s in self.students]
         self._norm_sorted_names = [_norm_sorted(s) for s in self.students]
+        self._norm_sorted_concat = [_norm(ns) for ns in self._norm_sorted_names]
 
     # ------------------------------------------------------------------
     # Primary entry point
@@ -84,12 +86,15 @@ class LearnerResolver:
                 "multiple candidates: " + "; ".join(cands)
             )
 
-        # --- Strategy 4: fuzzy ---
-        close = difflib.get_close_matches(_norm(prefix), self._norm_names, n=1, cutoff=0.75)
+        # --- Strategy 4: fuzzy — check written order AND order-invariant order ---
+        pool = self._norm_names + self._norm_sorted_concat
+        close = difflib.get_close_matches(_norm(prefix), pool, n=1, cutoff=0.75)
         if close:
-            idx   = self._norm_names.index(close[0])
+            matched = close[0]
+            idx = (self._norm_names.index(matched) if matched in self._norm_names
+                   else self._norm_sorted_concat.index(matched))
             canon = self.students[idx]
-            score = difflib.SequenceMatcher(None, _norm(prefix), close[0]).ratio()
+            score = difflib.SequenceMatcher(None, _norm(prefix), matched).ratio()
             return self._result(
                 self.id_map[canon], "matched_fuzzy",
                 f"{canon} (score={score:.2f})"

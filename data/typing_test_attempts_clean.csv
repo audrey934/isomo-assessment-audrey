@@ -3536,8 +3536,8 @@ IS_SCH_034,Inyange Girls School,inezasimbi@icircles.rw,matched_exact,Inyange Gir
 IS_SCH_034,Inyange Girls School,inezasimbi@icircles.rw,matched_exact,Inyange Girls - C2,,,5 Minute Typing Test,False,9th Grade,30,98,5.0,2026-03-10,15 / 758,False,exact_canonical,Inyange Girls School,ID_SCH_115517,ID_LRN_892728,Ineza Simbi Paola
 IS_SCH_034,Inyange Girls School,inezasimbi@icircles.rw,matched_exact,Inyange Girls - C2,,,5 Minute Typing Test,False,9th Grade,31,98,5.0,2026-03-13,13 / 789,False,exact_canonical,Inyange Girls School,ID_SCH_115517,ID_LRN_892728,Ineza Simbi Paola
 IS_SCH_034,Inyange Girls School,inezasimbi@icircles.rw,matched_exact,Inyange Girls - C2,,,5 Minute Typing Test,False,9th Grade,28,97,5.0,2026-03-13,19 / 721,False,exact_canonical,Inyange Girls School,ID_SCH_115517,ID_LRN_892728,Ineza Simbi Paola
-IS_SCH_002,CIC Muramba,albineza@icircles.rw,unmatched,CIC Muramba - C2,,,5 Minute Typing Test,False,9th Grade,19,97,5.0,2026-02-24,15 / 495,False,exact_canonical,CIC Muramba,ID_SCH_662070,,no candidate found
-IS_SCH_002,CIC Muramba,albineza@icircles.rw,unmatched,CIC Muramba - C2,,,1 Minute Typing Test,False,9th Grade,24,100,1.0,2026-03-13,0 / 121,False,exact_canonical,CIC Muramba,ID_SCH_662070,,no candidate found
+IS_SCH_002,CIC Muramba,albineza@icircles.rw,matched_fuzzy,CIC Muramba - C2,,,5 Minute Typing Test,False,9th Grade,19,97,5.0,2026-02-24,15 / 495,False,exact_canonical,CIC Muramba,ID_SCH_662070,ID_LRN_370215,INEZA Albine (score=0.84)
+IS_SCH_002,CIC Muramba,albineza@icircles.rw,matched_fuzzy,CIC Muramba - C2,,,1 Minute Typing Test,False,9th Grade,24,100,1.0,2026-03-13,0 / 121,False,exact_canonical,CIC Muramba,ID_SCH_662070,ID_LRN_370215,INEZA Albine (score=0.84)
 IS_SCH_013,ES Sancta Maria Karambo,angelosam@icircles.rw,unmatched,ES Sancta Maria Karambo - C2,,,5 Minute Typing Test,False,Legacy,30,98,5.0,2026-02-15,17 / 755,False,exact_canonical,ES Sancta Maria Karambo,ID_SCH_185679,,no candidate found
 IS_SCH_034,Inyange Girls School,inezahirwa@icircles.rw,matched_exact,Inyange Girls - C2,,,5 Minute Typing Test,False,9th Grade,17,92,5.0,2026-02-20,33 / 425,False,exact_canonical,Inyange Girls School,ID_SCH_115517,ID_LRN_332249,Ineza Hirwa Délice
 IS_SCH_034,Inyange Girls School,inezahirwa@icircles.rw,matched_exact,Inyange Girls - C2,,,5 Minute Typing Test,False,9th Grade,20,93,5.0,2026-02-20,34 / 512,False,exact_canonical,Inyange Girls School,ID_SCH_115517,ID_LRN_332249,Ineza Hirwa Délice
@@ -4532,21 +4532,21 @@ IS_SCH_038,Ps St Jean Paul II,airankunda@icircles.rw,ambiguous,PS St. Jean Paul 
 IS_SCH_038,Ps St Jean Paul II,airankunda@icircles.rw,ambiguous,PS St. Jean Paul II - C2,,,3 Minute Typing Test,False,9th Grade,25,98,3.0,2026-03-02,8 / 384,False,exact_canonical,Ps St Jean Paul II,ID_SCH_753589,,multiple candidates: IRANKUNDA NTWARI Aime Alain; IRANKUNDA ARSTIDE
 IS_SCH_038,Ps St Jean Paul II,airankunda@icircles.rw,ambiguous,PS St. Jean Paul II - C2,,,3 Minute Typing Test,False,9th Grade,24,98,3.0,2026-03-02,8 / 360,False,exact_canonical,Ps St Jean Paul II,ID_SCH_753589,,multiple candidates: IRANKUNDA NTWARI Aime Alain; IRANKUNDA ARSTIDE
 IS_SCH_038,Ps St Jean Paul II,airankunda@icircles.rw,ambiguous,PS St. Jean Paul II - C2,,,Personalized Practice,False,9th Grade,23,97,2.0,2026-03-02,7 / 237,False,exact_canonical,Ps St Jean Paul II,ID_SCH_753589,,multiple candidates: IRANKUNDA NTWARI Aime Alain; IRANKUNDA ARSTIDE
-IS_SCH_005,ES Mubuga,arstideira@icircles.rw,matched_fuzzy,ES Mubuga - C2,,,1 Minute Typing Test,False,9th Grade,11,89,1.0,2026-01-26,Jun-56,False,exact_canonical,ES Mubuga,ID_SCH_298130,ID_LRN_081477,Arstide Umuhire (score=0.75)
-IS_SCH_005,ES Mubuga,arstideira@icircles.rw,matched_fuzzy,ES Mubuga - C2,,,1 Minute Typing Test,False,9th Grade,12,88,1.0,2026-01-26,Jul-60,False,exact_canonical,ES Mubuga,ID_SCH_298130,ID_LRN_081477,Arstide Umuhire (score=0.75)
-IS_SCH_005,ES Mubuga,arstideira@icircles.rw,matched_fuzzy,ES Mubuga - C2,,,1 Minute Typing Test,False,9th Grade,14,88,1.0,2026-01-26,Sep-73,False,exact_canonical,ES Mubuga,ID_SCH_298130,ID_LRN_081477,Arstide Umuhire (score=0.75)
-IS_SCH_005,ES Mubuga,arstideira@icircles.rw,matched_fuzzy,ES Mubuga - C2,,,1 Minute Typing Test,False,9th Grade,16,94,1.0,2026-02-28,May-84,False,exact_canonical,ES Mubuga,ID_SCH_298130,ID_LRN_081477,Arstide Umuhire (score=0.75)
-IS_SCH_005,ES Mubuga,arstideira@icircles.rw,matched_fuzzy,ES Mubuga - C2,,,1 Minute Typing Test,False,9th Grade,13,88,1.0,2026-02-28,Aug-65,False,exact_canonical,ES Mubuga,ID_SCH_298130,ID_LRN_081477,Arstide Umuhire (score=0.75)
-IS_SCH_005,ES Mubuga,arstideira@icircles.rw,matched_fuzzy,ES Mubuga - C2,,,5 Minute Typing Test,False,9th Grade,16,91,5.0,2026-03-01,35 / 411,False,exact_canonical,ES Mubuga,ID_SCH_298130,ID_LRN_081477,Arstide Umuhire (score=0.75)
-IS_SCH_005,ES Mubuga,arstideira@icircles.rw,matched_fuzzy,ES Mubuga - C2,,,5 Minute Typing Test,False,9th Grade,19,93,5.0,2026-03-05,37 / 497,False,exact_canonical,ES Mubuga,ID_SCH_298130,ID_LRN_081477,Arstide Umuhire (score=0.75)
-IS_SCH_005,ES Mubuga,arstideira@icircles.rw,matched_fuzzy,ES Mubuga - C2,,,5 Minute Typing Test,False,9th Grade,16,90,5.0,2026-03-06,41 / 420,False,exact_canonical,ES Mubuga,ID_SCH_298130,ID_LRN_081477,Arstide Umuhire (score=0.75)
-IS_SCH_005,ES Mubuga,arstideira@icircles.rw,matched_fuzzy,ES Mubuga - C2,,,5 Minute Typing Test,False,9th Grade,17,91,5.0,2026-03-06,40 / 428,False,exact_canonical,ES Mubuga,ID_SCH_298130,ID_LRN_081477,Arstide Umuhire (score=0.75)
-IS_SCH_005,ES Mubuga,arstideira@icircles.rw,matched_fuzzy,ES Mubuga - C2,,,5 Minute Typing Test,False,9th Grade,17,89,5.0,2026-03-06,47 / 425,False,exact_canonical,ES Mubuga,ID_SCH_298130,ID_LRN_081477,Arstide Umuhire (score=0.75)
-IS_SCH_005,ES Mubuga,arstideira@icircles.rw,matched_fuzzy,ES Mubuga - C2,,,5 Minute Typing Test,False,9th Grade,15,89,5.0,2026-03-06,44 / 395,False,exact_canonical,ES Mubuga,ID_SCH_298130,ID_LRN_081477,Arstide Umuhire (score=0.75)
-IS_SCH_005,ES Mubuga,arstideira@icircles.rw,matched_fuzzy,ES Mubuga - C2,,,5 Minute Typing Test,False,9th Grade,17,91,5.0,2026-03-07,39 / 428,False,exact_canonical,ES Mubuga,ID_SCH_298130,ID_LRN_081477,Arstide Umuhire (score=0.75)
-IS_SCH_005,ES Mubuga,arstideira@icircles.rw,matched_fuzzy,ES Mubuga - C2,,,5 Minute Typing Test,False,9th Grade,18,92,5.0,2026-03-09,36 / 458,False,exact_canonical,ES Mubuga,ID_SCH_298130,ID_LRN_081477,Arstide Umuhire (score=0.75)
-IS_SCH_005,ES Mubuga,arstideira@icircles.rw,matched_fuzzy,ES Mubuga - C2,,,5 Minute Typing Test,False,9th Grade,18,90,5.0,2026-03-09,46 / 459,False,exact_canonical,ES Mubuga,ID_SCH_298130,ID_LRN_081477,Arstide Umuhire (score=0.75)
-IS_SCH_005,ES Mubuga,arstideira@icircles.rw,matched_fuzzy,ES Mubuga - C2,,,5 Minute Typing Test,False,9th Grade,20,93,5.0,2026-03-09,37 / 510,False,exact_canonical,ES Mubuga,ID_SCH_298130,ID_LRN_081477,Arstide Umuhire (score=0.75)
+IS_SCH_005,ES Mubuga,arstideira@icircles.rw,matched_fuzzy,ES Mubuga - C2,,,1 Minute Typing Test,False,9th Grade,11,89,1.0,2026-01-26,Jun-56,False,exact_canonical,ES Mubuga,ID_SCH_298130,ID_LRN_314631,IRANKUNDA ARSTIDE (score=0.77)
+IS_SCH_005,ES Mubuga,arstideira@icircles.rw,matched_fuzzy,ES Mubuga - C2,,,1 Minute Typing Test,False,9th Grade,12,88,1.0,2026-01-26,Jul-60,False,exact_canonical,ES Mubuga,ID_SCH_298130,ID_LRN_314631,IRANKUNDA ARSTIDE (score=0.77)
+IS_SCH_005,ES Mubuga,arstideira@icircles.rw,matched_fuzzy,ES Mubuga - C2,,,1 Minute Typing Test,False,9th Grade,14,88,1.0,2026-01-26,Sep-73,False,exact_canonical,ES Mubuga,ID_SCH_298130,ID_LRN_314631,IRANKUNDA ARSTIDE (score=0.77)
+IS_SCH_005,ES Mubuga,arstideira@icircles.rw,matched_fuzzy,ES Mubuga - C2,,,1 Minute Typing Test,False,9th Grade,16,94,1.0,2026-02-28,May-84,False,exact_canonical,ES Mubuga,ID_SCH_298130,ID_LRN_314631,IRANKUNDA ARSTIDE (score=0.77)
+IS_SCH_005,ES Mubuga,arstideira@icircles.rw,matched_fuzzy,ES Mubuga - C2,,,1 Minute Typing Test,False,9th Grade,13,88,1.0,2026-02-28,Aug-65,False,exact_canonical,ES Mubuga,ID_SCH_298130,ID_LRN_314631,IRANKUNDA ARSTIDE (score=0.77)
+IS_SCH_005,ES Mubuga,arstideira@icircles.rw,matched_fuzzy,ES Mubuga - C2,,,5 Minute Typing Test,False,9th Grade,16,91,5.0,2026-03-01,35 / 411,False,exact_canonical,ES Mubuga,ID_SCH_298130,ID_LRN_314631,IRANKUNDA ARSTIDE (score=0.77)
+IS_SCH_005,ES Mubuga,arstideira@icircles.rw,matched_fuzzy,ES Mubuga - C2,,,5 Minute Typing Test,False,9th Grade,19,93,5.0,2026-03-05,37 / 497,False,exact_canonical,ES Mubuga,ID_SCH_298130,ID_LRN_314631,IRANKUNDA ARSTIDE (score=0.77)
+IS_SCH_005,ES Mubuga,arstideira@icircles.rw,matched_fuzzy,ES Mubuga - C2,,,5 Minute Typing Test,False,9th Grade,16,90,5.0,2026-03-06,41 / 420,False,exact_canonical,ES Mubuga,ID_SCH_298130,ID_LRN_314631,IRANKUNDA ARSTIDE (score=0.77)
+IS_SCH_005,ES Mubuga,arstideira@icircles.rw,matched_fuzzy,ES Mubuga - C2,,,5 Minute Typing Test,False,9th Grade,17,91,5.0,2026-03-06,40 / 428,False,exact_canonical,ES Mubuga,ID_SCH_298130,ID_LRN_314631,IRANKUNDA ARSTIDE (score=0.77)
+IS_SCH_005,ES Mubuga,arstideira@icircles.rw,matched_fuzzy,ES Mubuga - C2,,,5 Minute Typing Test,False,9th Grade,17,89,5.0,2026-03-06,47 / 425,False,exact_canonical,ES Mubuga,ID_SCH_298130,ID_LRN_314631,IRANKUNDA ARSTIDE (score=0.77)
+IS_SCH_005,ES Mubuga,arstideira@icircles.rw,matched_fuzzy,ES Mubuga - C2,,,5 Minute Typing Test,False,9th Grade,15,89,5.0,2026-03-06,44 / 395,False,exact_canonical,ES Mubuga,ID_SCH_298130,ID_LRN_314631,IRANKUNDA ARSTIDE (score=0.77)
+IS_SCH_005,ES Mubuga,arstideira@icircles.rw,matched_fuzzy,ES Mubuga - C2,,,5 Minute Typing Test,False,9th Grade,17,91,5.0,2026-03-07,39 / 428,False,exact_canonical,ES Mubuga,ID_SCH_298130,ID_LRN_314631,IRANKUNDA ARSTIDE (score=0.77)
+IS_SCH_005,ES Mubuga,arstideira@icircles.rw,matched_fuzzy,ES Mubuga - C2,,,5 Minute Typing Test,False,9th Grade,18,92,5.0,2026-03-09,36 / 458,False,exact_canonical,ES Mubuga,ID_SCH_298130,ID_LRN_314631,IRANKUNDA ARSTIDE (score=0.77)
+IS_SCH_005,ES Mubuga,arstideira@icircles.rw,matched_fuzzy,ES Mubuga - C2,,,5 Minute Typing Test,False,9th Grade,18,90,5.0,2026-03-09,46 / 459,False,exact_canonical,ES Mubuga,ID_SCH_298130,ID_LRN_314631,IRANKUNDA ARSTIDE (score=0.77)
+IS_SCH_005,ES Mubuga,arstideira@icircles.rw,matched_fuzzy,ES Mubuga - C2,,,5 Minute Typing Test,False,9th Grade,20,93,5.0,2026-03-09,37 / 510,False,exact_canonical,ES Mubuga,ID_SCH_298130,ID_LRN_314631,IRANKUNDA ARSTIDE (score=0.77)
 IS_SCH_002,CIC Muramba,biranzi@icircles.rw,matched_exact,CIC Muramba - C2,,,1 Minute Typing Test,False,9th Grade,10,90,1.0,2026-02-20,May-51,False,exact_canonical,CIC Muramba,ID_SCH_662070,ID_LRN_719005,IRANZI Yana Believe
 IS_SCH_002,CIC Muramba,biranzi@icircles.rw,matched_exact,CIC Muramba - C2,,,1 Minute Typing Test,False,9th Grade,13,88,1.0,2026-02-21,Aug-69,False,exact_canonical,CIC Muramba,ID_SCH_662070,ID_LRN_719005,IRANZI Yana Believe
 IS_SCH_002,CIC Muramba,biranzi@icircles.rw,matched_exact,CIC Muramba - C2,,,3 Minute Typing Test,False,9th Grade,15,96,3.0,2026-02-21,10 / 238,False,exact_canonical,CIC Muramba,ID_SCH_662070,ID_LRN_719005,IRANZI Yana Believe
@@ -5741,9 +5741,9 @@ IS_SCH_023,Gs Gishyita,cndayishimye@icircles.rw,matched_exact,GS Gishyita - C2,,
 IS_SCH_023,Gs Gishyita,dmanirakiza@icircles.rw,matched_exact,GS Gishyita - C2,,,5 Minute Typing Test,False,Legacy,4,84,5.0,2026-03-02,16 / 103,False,exact_canonical,Gs Gishyita,ID_SCH_126493,ID_LRN_621083,Manirakiza Darada
 IS_SCH_023,Gs Gishyita,luwase@icircles.rw,ambiguous,GS Gishyita - C2,,,5 Minute Typing Test,False,Legacy,6,96,5.0,2026-03-01,7 / 172,False,exact_canonical,Gs Gishyita,ID_SCH_126493,,multiple candidates: Uwase M Liliane; Uwase Marie Louise
 IS_SCH_023,Gs Gishyita,luwase@icircles.rw,ambiguous,GS Gishyita - C2,,,5 Minute Typing Test,False,Legacy,0,80,5.0,2026-03-01,02-Oct,False,exact_canonical,Gs Gishyita,ID_SCH_126493,,multiple candidates: Uwase M Liliane; Uwase Marie Louise
-IS_SCH_023,Gs Gishyita,chantiradukunda@icircles.rw,unmatched,GS Gishyita - C2,,,5 Minute Typing Test,False,Legacy,7,92,5.0,2026-03-01,15 / 190,False,exact_canonical,Gs Gishyita,ID_SCH_126493,,no candidate found
-IS_SCH_023,Gs Gishyita,chantiradukunda@icircles.rw,unmatched,GS Gishyita - C2,,,5 Minute Typing Test,False,Legacy,11,94,5.0,2026-03-12,16 / 283,False,exact_canonical,Gs Gishyita,ID_SCH_126493,,no candidate found
-IS_SCH_023,Gs Gishyita,chantiradukunda@icircles.rw,unmatched,GS Gishyita - C2,,,5 Minute Typing Test,False,Legacy,11,92,5.0,2026-03-13,22 / 290,False,exact_canonical,Gs Gishyita,ID_SCH_126493,,no candidate found
+IS_SCH_023,Gs Gishyita,chantiradukunda@icircles.rw,matched_fuzzy,GS Gishyita - C2,,,5 Minute Typing Test,False,Legacy,7,92,5.0,2026-03-01,15 / 190,False,exact_canonical,Gs Gishyita,ID_SCH_126493,ID_LRN_092289,Iradukunda Chantal (score=0.94)
+IS_SCH_023,Gs Gishyita,chantiradukunda@icircles.rw,matched_fuzzy,GS Gishyita - C2,,,5 Minute Typing Test,False,Legacy,11,94,5.0,2026-03-12,16 / 283,False,exact_canonical,Gs Gishyita,ID_SCH_126493,ID_LRN_092289,Iradukunda Chantal (score=0.94)
+IS_SCH_023,Gs Gishyita,chantiradukunda@icircles.rw,matched_fuzzy,GS Gishyita - C2,,,5 Minute Typing Test,False,Legacy,11,92,5.0,2026-03-13,22 / 290,False,exact_canonical,Gs Gishyita,ID_SCH_126493,ID_LRN_092289,Iradukunda Chantal (score=0.94)
 IS_SCH_023,Gs Gishyita,jimanishimwe@icircles.rw,matched_exact,GS Gishyita - C2,,,5 Minute Typing Test,False,Legacy,10,89,5.0,2026-03-01,27 / 255,False,exact_canonical,Gs Gishyita,ID_SCH_126493,ID_LRN_745346,Imanishimwe Joselyne
 IS_SCH_023,Gs Gishyita,cumwali@circles.rw,matched_exact,GS Gishyita - C2,,,Beginner Assessment,True,Legacy,7,97,1.0,2026-03-10,Jan-38,False,exact_canonical,Gs Gishyita,ID_SCH_126493,ID_LRN_106150,Umwali Carine
 IS_SCH_023,Gs Gishyita,cumwali@circles.rw,matched_exact,GS Gishyita - C2,,,5 Minute Typing Test,False,Legacy,5,82,5.0,2026-03-13,23 / 129,False,exact_canonical,Gs Gishyita,ID_SCH_126493,ID_LRN_106150,Umwali Carine
@@ -6149,14 +6149,14 @@ IS_SCH_034,Inyange Girls School,bkarungi@icircles.rw,matched_exact,Inyange Girls
 IS_SCH_034,Inyange Girls School,bkarungi@icircles.rw,matched_exact,Inyange Girls - C2,,,1 Minute Typing Test,False,9th Grade,26,98,1.0,2026-03-03,3 / 133,False,exact_canonical,Inyange Girls School,ID_SCH_115517,ID_LRN_837845,Karungi Blenda
 IS_SCH_034,Inyange Girls School,bkarungi@icircles.rw,matched_exact,Inyange Girls - C2,,,3 Minute Typing Test,False,9th Grade,27,98,3.0,2026-03-03,9 / 417,False,exact_canonical,Inyange Girls School,ID_SCH_115517,ID_LRN_837845,Karungi Blenda
 IS_SCH_034,Inyange Girls School,bkarungi@icircles.rw,matched_exact,Inyange Girls - C2,,,5 Minute Typing Test,False,9th Grade,28,97,5.0,2026-03-07,19 / 717,False,exact_canonical,Inyange Girls School,ID_SCH_115517,ID_LRN_837845,Karungi Blenda
-IS_SCH_006,Rukomo Sopem,ckashema@icircles.rw,unmatched,Rukomo Sopem - C2,,,1 Minute Typing Test,False,Legacy,13,100,1.0,2025-12-10,0 / 69,False,exact_canonical,Rukomo Sopem,ID_SCH_066153,,no candidate found
-IS_SCH_006,Rukomo Sopem,ckashema@icircles.rw,unmatched,Rukomo Sopem - C2,,,1 Minute Typing Test,False,Legacy,9,90,1.0,2025-12-10,May-48,False,exact_canonical,Rukomo Sopem,ID_SCH_066153,,no candidate found
-IS_SCH_006,Rukomo Sopem,ckashema@icircles.rw,unmatched,Rukomo Sopem - C2,,,1 Minute Typing Test,False,Legacy,11,82,1.0,2025-12-10,Oct-55,False,exact_canonical,Rukomo Sopem,ID_SCH_066153,,no candidate found
-IS_SCH_006,Rukomo Sopem,ckashema@icircles.rw,unmatched,Rukomo Sopem - C2,,,1 Minute Typing Test,False,Legacy,24,95,1.0,2025-12-10,6 / 122,False,exact_canonical,Rukomo Sopem,ID_SCH_066153,,no candidate found
-IS_SCH_006,Rukomo Sopem,ckashema@icircles.rw,unmatched,Rukomo Sopem - C2,,,1 Minute Typing Test,False,Legacy,14,96,1.0,2025-12-10,Mar-74,False,exact_canonical,Rukomo Sopem,ID_SCH_066153,,no candidate found
-IS_SCH_006,Rukomo Sopem,ckashema@icircles.rw,unmatched,Rukomo Sopem - C2,,,1 Minute Typing Test,False,Legacy,6,77,1.0,2025-12-10,Jul-31,False,exact_canonical,Rukomo Sopem,ID_SCH_066153,,no candidate found
-IS_SCH_006,Rukomo Sopem,ckashema@icircles.rw,unmatched,Rukomo Sopem - C2,,,5 Minute Typing Test,False,9th Grade,14,92,5.0,2026-03-03,29 / 361,False,exact_canonical,Rukomo Sopem,ID_SCH_066153,,no candidate found
-IS_SCH_006,Rukomo Sopem,ckashema@icircles.rw,unmatched,Rukomo Sopem - C2,,,3 Minute Typing Test,False,9th Grade,15,94,3.0,2026-03-03,15 / 237,False,exact_canonical,Rukomo Sopem,ID_SCH_066153,,no candidate found
+IS_SCH_006,Rukomo Sopem,ckashema@icircles.rw,matched_fuzzy,Rukomo Sopem - C2,,,1 Minute Typing Test,False,Legacy,13,100,1.0,2025-12-10,0 / 69,False,exact_canonical,Rukomo Sopem,ID_SCH_066153,ID_LRN_945508,Kashemera Cate (score=0.76)
+IS_SCH_006,Rukomo Sopem,ckashema@icircles.rw,matched_fuzzy,Rukomo Sopem - C2,,,1 Minute Typing Test,False,Legacy,9,90,1.0,2025-12-10,May-48,False,exact_canonical,Rukomo Sopem,ID_SCH_066153,ID_LRN_945508,Kashemera Cate (score=0.76)
+IS_SCH_006,Rukomo Sopem,ckashema@icircles.rw,matched_fuzzy,Rukomo Sopem - C2,,,1 Minute Typing Test,False,Legacy,11,82,1.0,2025-12-10,Oct-55,False,exact_canonical,Rukomo Sopem,ID_SCH_066153,ID_LRN_945508,Kashemera Cate (score=0.76)
+IS_SCH_006,Rukomo Sopem,ckashema@icircles.rw,matched_fuzzy,Rukomo Sopem - C2,,,1 Minute Typing Test,False,Legacy,24,95,1.0,2025-12-10,6 / 122,False,exact_canonical,Rukomo Sopem,ID_SCH_066153,ID_LRN_945508,Kashemera Cate (score=0.76)
+IS_SCH_006,Rukomo Sopem,ckashema@icircles.rw,matched_fuzzy,Rukomo Sopem - C2,,,1 Minute Typing Test,False,Legacy,14,96,1.0,2025-12-10,Mar-74,False,exact_canonical,Rukomo Sopem,ID_SCH_066153,ID_LRN_945508,Kashemera Cate (score=0.76)
+IS_SCH_006,Rukomo Sopem,ckashema@icircles.rw,matched_fuzzy,Rukomo Sopem - C2,,,1 Minute Typing Test,False,Legacy,6,77,1.0,2025-12-10,Jul-31,False,exact_canonical,Rukomo Sopem,ID_SCH_066153,ID_LRN_945508,Kashemera Cate (score=0.76)
+IS_SCH_006,Rukomo Sopem,ckashema@icircles.rw,matched_fuzzy,Rukomo Sopem - C2,,,5 Minute Typing Test,False,9th Grade,14,92,5.0,2026-03-03,29 / 361,False,exact_canonical,Rukomo Sopem,ID_SCH_066153,ID_LRN_945508,Kashemera Cate (score=0.76)
+IS_SCH_006,Rukomo Sopem,ckashema@icircles.rw,matched_fuzzy,Rukomo Sopem - C2,,,3 Minute Typing Test,False,9th Grade,15,94,3.0,2026-03-03,15 / 237,False,exact_canonical,Rukomo Sopem,ID_SCH_066153,ID_LRN_945508,Kashemera Cate (score=0.76)
 IS_SCH_032,GS Nyagasambu,jkayiganwa@icircles.rw,matched_exact,GS Nyagasambu - C2,,,5 Minute Typing Test,False,4th Grade,13,89,5.0,2026-02-10,38 / 336,False,exact_canonical,GS Nyagasambu,ID_SCH_308428,ID_LRN_521008,Jean-Pierre Kayiganwa
 IS_SCH_032,GS Nyagasambu,jkayiganwa@icircles.rw,matched_exact,GS Nyagasambu - C2,,,3 Minute Typing Test,False,4th Grade,14,87,3.0,2026-02-11,27 / 212,False,exact_canonical,GS Nyagasambu,ID_SCH_308428,ID_LRN_521008,Jean-Pierre Kayiganwa
 IS_SCH_032,GS Nyagasambu,jkayiganwa@icircles.rw,matched_exact,GS Nyagasambu - C2,,,5 Minute Typing Test,False,9th Grade,16,88,5.0,2026-03-04,51 / 409,False,exact_canonical,GS Nyagasambu,ID_SCH_308428,ID_LRN_521008,Jean-Pierre Kayiganwa
@@ -13987,15 +13987,15 @@ IS_SCH_036,Lycee Notre Dame de Citeaux,nnezarwa@icircles.rw,unmatched,Isomo Circ
 ,,musonipatrick,matched_exact,ASYV - C2,IS_SCH_001,ASYV,Personalized Practice,False,9th Grade,34,93,1.0,2026-03-08,12 / 172,True,no_school_info,,,ID_LRN_543308,Musoni Patrick
 ,,musonipatrick,matched_exact,ASYV - C2,IS_SCH_001,ASYV,Assessment 2,True,9th Grade,32,89,1.0,2026-03-08,18 / 162,True,no_school_info,,,ID_LRN_543308,Musoni Patrick
 ,,musonipatrick,matched_exact,ASYV - C2,IS_SCH_001,ASYV,Assessment 1,True,9th Grade,48,96,1.0,2026-03-08,9 / 240,True,no_school_info,,,ID_LRN_543308,Musoni Patrick
-,,annabellamutara,unmatched,LNDC - C2,,,5 Minute Typing Test,False,4th Grade,33,98,5.0,2026-02-09,17 / 845,False,no_school_info,,,,no candidate found
-,,annabellamutara,unmatched,LNDC - C2,,,5 Minute Typing Test,False,4th Grade,35,96,5.0,2026-02-09,34 / 885,False,no_school_info,,,,no candidate found
-,,annabellamutara,unmatched,LNDC - C2,,,5 Minute Typing Test,False,4th Grade,33,95,5.0,2026-02-09,39 / 827,False,no_school_info,,,,no candidate found
-,,annabellamutara,unmatched,LNDC - C2,,,1 Minute Typing Test,False,4th Grade,39,95,1.0,2026-02-09,9 / 196,False,no_school_info,,,,no candidate found
-,,annabellamutara,unmatched,LNDC - C2,,,1 Minute Typing Test,False,4th Grade,39,98,1.0,2026-02-09,3 / 197,False,no_school_info,,,,no candidate found
-,,annabellamutara,unmatched,LNDC - C2,,,1 Minute Typing Test,False,4th Grade,38,95,1.0,2026-02-09,9 / 192,False,no_school_info,,,,no candidate found
-,,annabellamutara,unmatched,LNDC - C2,,,1 Minute Typing Test,False,4th Grade,31,92,1.0,2026-02-09,12 / 157,False,no_school_info,,,,no candidate found
-,,annabellamutara,unmatched,LNDC - C2,,,1 Minute Typing Test,False,4th Grade,39,94,1.0,2026-02-09,11 / 195,False,no_school_info,,,,no candidate found
-,,annabellamutara,unmatched,LNDC - C2,,,1 Minute Typing Test,False,4th Grade,40,97,1.0,2026-02-09,7 / 202,False,no_school_info,,,,no candidate found
+,,annabellamutara,matched_fuzzy,LNDC - C2,,,5 Minute Typing Test,False,4th Grade,33,98,5.0,2026-02-09,17 / 845,False,no_school_info,,,ID_LRN_964465,Mutara Anabella (score=0.97)
+,,annabellamutara,matched_fuzzy,LNDC - C2,,,5 Minute Typing Test,False,4th Grade,35,96,5.0,2026-02-09,34 / 885,False,no_school_info,,,ID_LRN_964465,Mutara Anabella (score=0.97)
+,,annabellamutara,matched_fuzzy,LNDC - C2,,,5 Minute Typing Test,False,4th Grade,33,95,5.0,2026-02-09,39 / 827,False,no_school_info,,,ID_LRN_964465,Mutara Anabella (score=0.97)
+,,annabellamutara,matched_fuzzy,LNDC - C2,,,1 Minute Typing Test,False,4th Grade,39,95,1.0,2026-02-09,9 / 196,False,no_school_info,,,ID_LRN_964465,Mutara Anabella (score=0.97)
+,,annabellamutara,matched_fuzzy,LNDC - C2,,,1 Minute Typing Test,False,4th Grade,39,98,1.0,2026-02-09,3 / 197,False,no_school_info,,,ID_LRN_964465,Mutara Anabella (score=0.97)
+,,annabellamutara,matched_fuzzy,LNDC - C2,,,1 Minute Typing Test,False,4th Grade,38,95,1.0,2026-02-09,9 / 192,False,no_school_info,,,ID_LRN_964465,Mutara Anabella (score=0.97)
+,,annabellamutara,matched_fuzzy,LNDC - C2,,,1 Minute Typing Test,False,4th Grade,31,92,1.0,2026-02-09,12 / 157,False,no_school_info,,,ID_LRN_964465,Mutara Anabella (score=0.97)
+,,annabellamutara,matched_fuzzy,LNDC - C2,,,1 Minute Typing Test,False,4th Grade,39,94,1.0,2026-02-09,11 / 195,False,no_school_info,,,ID_LRN_964465,Mutara Anabella (score=0.97)
+,,annabellamutara,matched_fuzzy,LNDC - C2,,,1 Minute Typing Test,False,4th Grade,40,97,1.0,2026-02-09,7 / 202,False,no_school_info,,,ID_LRN_964465,Mutara Anabella (score=0.97)
 ,,ruthmutesi,matched_exact,ASYV - C2,IS_SCH_001,ASYV,5 Minute Typing Test,False,Legacy,22,93,5.0,2026-02-13,39 / 574,True,no_school_info,,,ID_LRN_660877,Mutesi Ruth
 ,,ruthmutesi,matched_exact,ASYV - C2,IS_SCH_001,ASYV,5 Minute Typing Test,False,Legacy,26,96,5.0,2026-02-13,26 / 670,True,no_school_info,,,ID_LRN_660877,Mutesi Ruth
 ,,ruthmutesi,matched_exact,ASYV - C2,IS_SCH_001,ASYV,5 Minute Typing Test,False,Legacy,24,94,5.0,2026-02-13,39 / 613,True,no_school_info,,,ID_LRN_660877,Mutesi Ruth
@@ -14125,57 +14125,57 @@ IS_SCH_036,Lycee Notre Dame de Citeaux,nnezarwa@icircles.rw,unmatched,Isomo Circ
 ,,kennycelse,matched_exact,ASYV - C2,IS_SCH_001,ASYV,Assessment 1,True,9th Grade,33,95,1.0,2026-02-28,9 / 168,True,no_school_info,,,ID_LRN_055446,Niyonkuru Celse Kenny
 ,,kennycelse,matched_exact,ASYV - C2,IS_SCH_001,ASYV,Personalized Practice,False,9th Grade,30,93,1.0,2026-03-05,11 / 152,True,no_school_info,,,ID_LRN_055446,Niyonkuru Celse Kenny
 ,,kennycelse,matched_exact,ASYV - C2,IS_SCH_001,ASYV,Assessment 2,True,9th Grade,29,94,1.0,2026-03-05,9 / 145,True,no_school_info,,,ID_LRN_055446,Niyonkuru Celse Kenny
-,,carmellantiharirizwa,unmatched,CLA - C2,,,5 Minute Typing Test,False,Legacy,34,92,5.0,2026-02-06,66 / 856,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,2 Page Typing Test,False,Legacy,59,90,8.233333333,2026-02-12,236 / 2436,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,1 Minute Typing Test,False,Legacy,60,90,1.0,2026-02-12,31 / 302,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,5 Minute Typing Test,False,Legacy,61,91,5.0,2026-02-12,144 / 1543,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,5 Minute Typing Test,False,Legacy,56,88,5.0,2026-02-12,164 / 1407,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,1 Minute Typing Test,False,Legacy,62,90,1.0,2026-02-12,32 / 313,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,3 Minute Typing Test,False,Legacy,29,94,3.0,2026-02-13,25 / 443,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,3 Minute Typing Test,False,Legacy,34,95,3.0,2026-02-13,26 / 522,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,3 Minute Typing Test,False,Legacy,37,91,3.0,2026-02-13,53 / 562,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,1 Minute Typing Test,False,Legacy,35,93,1.0,2026-02-13,12 / 176,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,1 Minute Typing Test,False,Legacy,31,91,1.0,2026-02-13,14 / 157,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,5 Minute Typing Test,False,Legacy,62,92,5.0,2026-02-13,118 / 1553,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,5 Minute Typing Test,False,Legacy,59,93,5.0,2026-02-13,109 / 1484,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,1 Minute Typing Test,False,Legacy,63,95,1.0,2026-02-13,16 / 315,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,1 Minute Typing Test,False,Legacy,64,95,1.0,2026-02-13,16 / 322,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,1 Minute Typing Test,False,Legacy,38,95,1.0,2026-02-13,10 / 191,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,1 Minute Typing Test,False,Legacy,33,96,1.0,2026-02-13,7 / 169,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,5 Minute Typing Test,False,Legacy,34,93,5.0,2026-02-13,62 / 860,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,5 Minute Typing Test,False,Legacy,36,93,5.0,2026-02-14,66 / 906,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,1 Page Typing Test,False,Legacy,35,92,6.816666667,2026-02-14,92 / 1217,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,5 Minute Typing Test,False,Legacy,34,92,5.0,2026-02-14,73 / 859,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,5 Minute Typing Test,False,Legacy,35,93,5.0,2026-02-14,65 / 896,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,5 Minute Typing Test,False,Legacy,33,89,5.0,2026-02-14,87 / 827,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,3 Minute Typing Test,False,Legacy,35,91,3.0,2026-02-14,47 / 535,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,1 Minute Typing Test,False,Legacy,33,89,1.0,2026-02-14,19 / 168,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,5 Minute Typing Test,False,Legacy,33,94,5.0,2026-02-15,50 / 833,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,5 Minute Typing Test,False,Legacy,35,95,5.0,2026-02-16,48 / 885,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,5 Minute Typing Test,False,Legacy,35,95,5.0,2026-02-16,46 / 896,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,5 Minute Typing Test,False,Legacy,33,88,5.0,2026-02-16,102 / 832,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,5 Minute Typing Test,False,Legacy,33,92,5.0,2026-02-16,66 / 831,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,1 Minute Typing Test,False,Legacy,35,93,1.0,2026-02-18,13 / 177,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,5 Minute Typing Test,False,Legacy,38,96,5.0,2026-02-19,43 / 956,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,5 Minute Typing Test,False,Legacy,23,94,5.0,2026-02-19,36 / 583,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,5 Minute Typing Test,False,Legacy,25,95,5.0,2026-02-24,30 / 638,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,5 Minute Typing Test,False,Legacy,27,94,5.0,2026-02-24,43 / 686,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,5 Minute Typing Test,False,Legacy,35,94,5.0,2026-02-24,49 / 882,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,5 Minute Typing Test,False,Legacy,35,92,5.0,2026-02-26,70 / 883,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,3 Minute Typing Test,False,Legacy,33,95,3.0,2026-02-26,26 / 502,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,5 Minute Typing Test,False,Legacy,35,94,5.0,2026-02-26,51 / 888,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,Beginner Assessment,True,Legacy,67,92,1.0,2026-02-27,26 / 338,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,Beginner Assessment,True,Legacy,64,91,1.0,2026-02-27,28 / 320,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,Beginner Assessment,True,Legacy,37,96,1.0,2026-03-02,7 / 189,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,5 Minute Typing Test,False,Legacy,33,95,5.0,2026-03-02,44 / 826,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,5 Minute Typing Test,False,9th Grade,33,94,5.0,2026-03-04,54 / 833,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,5 Minute Typing Test,False,9th Grade,36,95,5.0,2026-03-05,49 / 918,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,5 Minute Typing Test,False,9th Grade,33,93,5.0,2026-03-05,61 / 841,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,3 Minute Typing Test,False,9th Grade,32,93,3.0,2026-03-05,34 / 490,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,3 Minute Typing Test,False,9th Grade,52,93,3.0,2026-03-07,51 / 781,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,1 Minute Typing Test,False,9th Grade,23,95,1.0,2026-03-07,6 / 119,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,Personalized Practice,False,9th Grade,48,94,2.0,2026-03-07,31 / 481,False,no_school_info,,,,no candidate found
-,,carmellantiharirizwa,unmatched,CLA - C2,,,5 Minute Typing Test,False,9th Grade,49,95,5.0,2026-03-07,67 / 1235,False,no_school_info,,,,no candidate found
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,5 Minute Typing Test,False,Legacy,34,92,5.0,2026-02-06,66 / 856,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,2 Page Typing Test,False,Legacy,59,90,8.233333333,2026-02-12,236 / 2436,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,1 Minute Typing Test,False,Legacy,60,90,1.0,2026-02-12,31 / 302,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,5 Minute Typing Test,False,Legacy,61,91,5.0,2026-02-12,144 / 1543,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,5 Minute Typing Test,False,Legacy,56,88,5.0,2026-02-12,164 / 1407,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,1 Minute Typing Test,False,Legacy,62,90,1.0,2026-02-12,32 / 313,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,3 Minute Typing Test,False,Legacy,29,94,3.0,2026-02-13,25 / 443,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,3 Minute Typing Test,False,Legacy,34,95,3.0,2026-02-13,26 / 522,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,3 Minute Typing Test,False,Legacy,37,91,3.0,2026-02-13,53 / 562,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,1 Minute Typing Test,False,Legacy,35,93,1.0,2026-02-13,12 / 176,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,1 Minute Typing Test,False,Legacy,31,91,1.0,2026-02-13,14 / 157,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,5 Minute Typing Test,False,Legacy,62,92,5.0,2026-02-13,118 / 1553,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,5 Minute Typing Test,False,Legacy,59,93,5.0,2026-02-13,109 / 1484,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,1 Minute Typing Test,False,Legacy,63,95,1.0,2026-02-13,16 / 315,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,1 Minute Typing Test,False,Legacy,64,95,1.0,2026-02-13,16 / 322,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,1 Minute Typing Test,False,Legacy,38,95,1.0,2026-02-13,10 / 191,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,1 Minute Typing Test,False,Legacy,33,96,1.0,2026-02-13,7 / 169,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,5 Minute Typing Test,False,Legacy,34,93,5.0,2026-02-13,62 / 860,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,5 Minute Typing Test,False,Legacy,36,93,5.0,2026-02-14,66 / 906,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,1 Page Typing Test,False,Legacy,35,92,6.816666667,2026-02-14,92 / 1217,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,5 Minute Typing Test,False,Legacy,34,92,5.0,2026-02-14,73 / 859,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,5 Minute Typing Test,False,Legacy,35,93,5.0,2026-02-14,65 / 896,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,5 Minute Typing Test,False,Legacy,33,89,5.0,2026-02-14,87 / 827,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,3 Minute Typing Test,False,Legacy,35,91,3.0,2026-02-14,47 / 535,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,1 Minute Typing Test,False,Legacy,33,89,1.0,2026-02-14,19 / 168,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,5 Minute Typing Test,False,Legacy,33,94,5.0,2026-02-15,50 / 833,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,5 Minute Typing Test,False,Legacy,35,95,5.0,2026-02-16,48 / 885,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,5 Minute Typing Test,False,Legacy,35,95,5.0,2026-02-16,46 / 896,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,5 Minute Typing Test,False,Legacy,33,88,5.0,2026-02-16,102 / 832,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,5 Minute Typing Test,False,Legacy,33,92,5.0,2026-02-16,66 / 831,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,1 Minute Typing Test,False,Legacy,35,93,1.0,2026-02-18,13 / 177,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,5 Minute Typing Test,False,Legacy,38,96,5.0,2026-02-19,43 / 956,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,5 Minute Typing Test,False,Legacy,23,94,5.0,2026-02-19,36 / 583,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,5 Minute Typing Test,False,Legacy,25,95,5.0,2026-02-24,30 / 638,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,5 Minute Typing Test,False,Legacy,27,94,5.0,2026-02-24,43 / 686,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,5 Minute Typing Test,False,Legacy,35,94,5.0,2026-02-24,49 / 882,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,5 Minute Typing Test,False,Legacy,35,92,5.0,2026-02-26,70 / 883,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,3 Minute Typing Test,False,Legacy,33,95,3.0,2026-02-26,26 / 502,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,5 Minute Typing Test,False,Legacy,35,94,5.0,2026-02-26,51 / 888,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,Beginner Assessment,True,Legacy,67,92,1.0,2026-02-27,26 / 338,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,Beginner Assessment,True,Legacy,64,91,1.0,2026-02-27,28 / 320,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,Beginner Assessment,True,Legacy,37,96,1.0,2026-03-02,7 / 189,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,5 Minute Typing Test,False,Legacy,33,95,5.0,2026-03-02,44 / 826,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,5 Minute Typing Test,False,9th Grade,33,94,5.0,2026-03-04,54 / 833,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,5 Minute Typing Test,False,9th Grade,36,95,5.0,2026-03-05,49 / 918,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,5 Minute Typing Test,False,9th Grade,33,93,5.0,2026-03-05,61 / 841,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,3 Minute Typing Test,False,9th Grade,32,93,3.0,2026-03-05,34 / 490,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,3 Minute Typing Test,False,9th Grade,52,93,3.0,2026-03-07,51 / 781,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,1 Minute Typing Test,False,9th Grade,23,95,1.0,2026-03-07,6 / 119,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,Personalized Practice,False,9th Grade,48,94,2.0,2026-03-07,31 / 481,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
+,,carmellantiharirizwa,matched_fuzzy,CLA - C2,,,5 Minute Typing Test,False,9th Grade,49,95,5.0,2026-03-07,67 / 1235,False,no_school_info,,,ID_LRN_001234,NTIHARIRIZWA CAMELLA (score=0.97)
 ,,ntiyoberwa09,unmatched,CLA - C2,,,1 Minute Typing Test,False,Legacy,30,98,1.0,2026-02-13,3 / 150,False,no_school_info,,,,no candidate found
 ,,ntiyoberwa09,unmatched,CLA - C2,,,1 Minute Typing Test,False,Legacy,30,95,1.0,2026-02-13,8 / 152,False,no_school_info,,,,no candidate found
 ,,ntiyoberwa09,unmatched,CLA - C2,,,1 Minute Typing Test,False,Legacy,31,97,1.0,2026-02-13,4 / 158,False,no_school_info,,,,no candidate found
