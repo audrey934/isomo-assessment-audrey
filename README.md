@@ -9,7 +9,7 @@ This project analyzes learner engagement by comparing engagement across learning
 - **Layer 3 (cleaning & loading):** complete for all source files; see `docs/cleaning_log.md`.
 - **Layer 4 (SQL analysis):** complete — 6 required queries plus 1 of my own, all in `queries/`.
 - **Layer 5:** `analysis/engagement_report.md`  `analysis/school_summary.csv`,`analysis/generate_engagement_outputs.py`.
--isomo-assessment-Claude + Codex
+- **LLM Used:** isomo-assessment-Claude + Codex
 
 ## Repository structure
 
