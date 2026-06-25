@@ -9,7 +9,7 @@ This project analyzes learner engagement by comparing engagement across learning
 
 ---
 
--LLM Used:isomo-assessment-Claude + Codex
+- LLM Used: isomo-assessment-Claude + Codex
 
 ## Repository structure
 | Folder | Contents |
