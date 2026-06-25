@@ -1,18 +1,17 @@
 # Isomo Assessment
+
 ## Project Description
 This project analyzes learner engagement by comparing engagement across learning platforms (Typing and Quill) activity logs and their EFSet, Duolingo (DET), and Northstar assessment records. 
 
 ## Needed data:
-- Which learners are actively engaging with the Typing and Quill learning platforms, and are the learners with the most engagement also the ones showing up in assessment records  or are there gaps?
-- **Layer 1 (repo setup):** complete.
-- **Layer 2 (learner & school IDs):** complete — hash-based, stable IDs; see `docs/ID_DESIGN.md`.
-- **Layer 3 (cleaning & loading):** complete for all source files; see `docs/cleaning_log.md`.
-- **Layer 4 (SQL analysis):** complete — 6 required queries plus 1 of my own, all in `queries/`.
-- **Layer 5:** `analysis/engagement_report.md`  `analysis/school_summary.csv`,`analysis/generate_engagement_outputs.py`.
-- **LLM Used:** isomo-assessment-Claude + Codex
+- Which learners are actively engaging with the Typing and Quill learning platforms
+- Are the learners with the most engagement also the ones showing up in assessment records,  or are there gaps?
+
+
+
+- LLM Used:isomo-assessment-Claude + Codex
 
 ## Repository structure
-
 | Folder | Contents |
 |---|---|
 | `data/` | Cleaned datasets only — one CSV per source file, plus the learner/school ID mapping tables. Raw source files are never committed. |
