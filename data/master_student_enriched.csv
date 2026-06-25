@@ -1,0 +1,1003 @@
+internal_learner_id,school_id,canonical_name,gender,combinations,is_admitted,combinations_flag,resolved_school_id
+ID_LRN_432786,,Munyampeta David,Male,S2,True,False,
+ID_LRN_476596,,Sibomana Gideon,Male,S2,True,False,
+ID_LRN_423377,,Munyana Alliane,Female,S2,True,False,
+ID_LRN_910410,,Ikirezi Kenia,Female,S2,True,False,
+ID_LRN_277587,,Mucyo Jimmy,Male,S2,True,False,
+ID_LRN_438054,,Akimfura Ange Olivia,Female,S2,True,False,
+ID_LRN_514691,,Umutoniwase Yvette,Female,S2,True,False,
+ID_LRN_295101,,Burasa Perle,Female,S2,True,False,
+ID_LRN_079479,,Dusengimana Djafar,Male,S2,True,False,
+ID_LRN_365771,,Mugisha Gael,Male,S2,True,False,
+ID_LRN_790418,,Niyonkuru Irene,Male,S2,True,False,
+ID_LRN_636324,,Kanyesigye Edwin,Male,S2,True,False,
+ID_LRN_025364,,Mugisha Yves,Male,S2,True,False,ID_SCH_830588
+ID_LRN_844026,,Shimwa Evra,Male,S2,True,False,
+ID_LRN_696430,,Tuyisenge Kevine,Female,S2,True,False,
+ID_LRN_361731,,Mutesi Sandrine,Female,S2,True,False,
+ID_LRN_856937,,Havugimana Aimable,Male,S2,True,False,
+ID_LRN_675110,,Hirwa Blessing Shalom,Male,S2,True,False,
+ID_LRN_101078,,Umukundwa Kevine,Female,S2,True,False,
+ID_LRN_870530,,Iradukunda Emmerance,Female,S2,True,False,
+ID_LRN_637945,,Niyibizi Prince,Male,S2,True,False,
+ID_LRN_027929,,Tuyizere Reponse,Male,S2,True,False,
+ID_LRN_400786,,Irakoze Benitha,Female,S2,True,False,
+ID_LRN_252343,,Sahoguteta Cedrick,Male,S2,True,False,
+ID_LRN_633967,,Dukuzimana Valentin,Male,S2,True,False,
+ID_LRN_840274,,MWAMIKAZI Gisele,Female,HLP,True,False,
+ID_LRN_557028,,MANIRAGENA Obedi,Male,MCB,True,False,ID_SCH_941471
+ID_LRN_697711,,MURANGWA Pierre Damien,Male,HLP,True,False,
+ID_LRN_042856,,NIYONKURU Kevin,Male,PCB,True,False,
+ID_LRN_840797,,HATANGIMANA Valentin,Male,PCB,True,False,
+ID_LRN_454020,,IRABARUTA Honore,Male,MCB,True,False,ID_SCH_941471
+ID_LRN_041077,,NIYONZIMA Valentin,Male,PCB,True,False,
+ID_LRN_946706,,CHANCE Colnel,Male,PCB,True,False,ID_SCH_941471
+ID_LRN_227112,,IRANKUNDA Fiacre,Male,PCB,True,False,ID_SCH_941471
+ID_LRN_261967,,NTACYITAKOZE Elysee,Male,PCB,True,False,ID_SCH_941471
+ID_LRN_550299,,TINYIMANA Seth,Male,HLP,True,False,
+ID_LRN_144049,,Claudine Ishime,Female,PCB,True,False,
+ID_LRN_147404,,IRATUZI Blessing,Male,PCB,True,False,ID_SCH_941471
+ID_LRN_798816,,UWUMUKIZA Solange,Female,HLP,True,False,
+ID_LRN_216311,,HAKIZIMANA Vincent,Male,HLP,True,False,
+ID_LRN_535985,,GISUBIZO Jean Pierre,Male,MCB,True,False,
+ID_LRN_520090,,NIYOKWIZERA Pierre,Male,MCB,True,False,ID_SCH_941471
+ID_LRN_537490,,MUKESHIMANA Elie,Male,HLP,True,False,
+ID_LRN_404167,,IRAMBONA Emmile,Male,MCB,True,False,
+ID_LRN_098349,,ISHIMWE Elisa,Male,PCB,True,False,
+ID_LRN_671023,,BIZIMANA Samuel,Male,MCB,True,False,ID_SCH_941471
+ID_LRN_051529,,TUMUKUNDE Japhet,Male,HLP,True,False,
+ID_LRN_663297,,HABINEZA KARENZI Alexis,Male,PCB,True,False,
+ID_LRN_498106,,IRAKOZE Igue,Male,HLP,True,False,
+ID_LRN_692902,,NISINGIZWE Donathe,Female,MCB,True,False,
+ID_LRN_752816,,HATEGEKIMANA Hilbert,Male,PCB,True,False,ID_SCH_753589
+ID_LRN_990226,,KWIZERA Fidele,Male,PCB,True,False,ID_SCH_753589
+ID_LRN_066724,,CYUZUZO RUGWIRO Christian,Male,MCB,True,False,ID_SCH_753589
+ID_LRN_094320,,BUGINGO SHEMA Ryan Prince,Male,MCB,True,False,ID_SCH_753589
+ID_LRN_584828,,HABIMANA Rugira Fabrice,Male,PCB,True,False,ID_SCH_753589
+ID_LRN_313738,,UWIMPAYE Marc,Male,MCB,True,False,ID_SCH_753589
+ID_LRN_810110,,BYUSA KABAGEMA Credo Armand,Male,PCB,True,False,ID_SCH_753589
+ID_LRN_131878,,SANGWA Simeon,Male,PCB,True,False,ID_SCH_753589
+ID_LRN_563780,,ISHIMWE J.Celse,Male,PCB,True,False,ID_SCH_753589
+ID_LRN_283921,,NDAYISENGA Dieudonné,Male,PCB,True,False,ID_SCH_753589
+ID_LRN_250389,,NDAHAYO Gilbert,Male,MCB,True,False,ID_SCH_753589
+ID_LRN_448916,,BIZIMANA Joseph,Male,PCB,True,False,ID_SCH_753589
+ID_LRN_631102,,IRANKUNDA NTWARI Aime Alain,Male,PCB,True,False,
+ID_LRN_790966,,ADILI FREEMAN WISE David,Male,PCB,True,False,ID_SCH_753589
+ID_LRN_187469,,NSENGIMANA Jean Pierre,Male,PCB,True,False,ID_SCH_753589
+ID_LRN_794884,,IRAKOZE NDAHEMUKA Anicet,Male,PCB,True,False,ID_SCH_753589
+ID_LRN_499121,,RUGWIRO Protegene,Male,MCB,True,False,ID_SCH_753589
+ID_LRN_350023,,KWIZERA IGIHOZO Olivier,Male,PCB,True,False,ID_SCH_753589
+ID_LRN_245790,,KARAMAGE Valentin,Male,PCB,True,False,ID_SCH_753589
+ID_LRN_734558,,ISINGIZWE Second Fiacre,Male,MCB,True,False,ID_SCH_753589
+ID_LRN_300841,,CYIZA Aimé-Patrick,Male,MCB,True,False,ID_SCH_753589
+ID_LRN_957760,,SHIMWA HIGIRO Bruce,Male,MCB,True,False,
+ID_LRN_896827,,IRASUBIZA Emmanuel,Male,MCB,True,False,
+ID_LRN_152140,,NIYOGISUBIZO Théophile,Male,PCB,True,False,ID_SCH_753589
+ID_LRN_784647,,DUSHIMUMUKIZA Alde Confiance,Male,MCB,True,False,ID_SCH_753589
+ID_LRN_864139,,Ihumure Sabrine,Female,MPC,True,False,ID_SCH_975130
+ID_LRN_464800,,Igikundiro Ange Claudia,Female,MPC,True,False,ID_SCH_975130
+ID_LRN_437307,,Umutoni Gloriose,Female,PCB,True,False,ID_SCH_975130
+ID_LRN_930379,,Gasaro Louna Megane,Female,MPC,True,False,ID_SCH_975130
+ID_LRN_430479,,Iliza Singizwa Lelia,Female,PCB,True,False,ID_SCH_975130
+ID_LRN_379149,,Ishimwe Uwase Amandine,Female,PCB,True,False,ID_SCH_975130
+ID_LRN_161717,,Ishimwe Emelyne,Female,PCB,True,False,ID_SCH_975130
+ID_LRN_927606,,Ajeneza Latonia Davilla,Female,MPC,True,False,ID_SCH_975130
+ID_LRN_390934,,Iradukunda Truth Maker Denyse,Female,MEG,True,False,ID_SCH_975130
+ID_LRN_348043,,Utetiwabo Rebecca,Female,PCB,True,False,ID_SCH_975130
+ID_LRN_272905,,Ingabire Ange Kevine,Female,PCB,True,False,ID_SCH_975130
+ID_LRN_007375,,Uwase Nelly,Female,PCB,True,False,ID_SCH_975130
+ID_LRN_430906,,Abayisenga Hervine,Female,PCB,True,False,ID_SCH_975130
+ID_LRN_584599,,Umutoniwase Cynthia,Female,PCB,True,False,ID_SCH_975130
+ID_LRN_109922,,Iradukunda Aimee Joyeuse,Female,MEG,True,False,ID_SCH_975130
+ID_LRN_560451,,Uwimana Anathalie,Female,MPC,True,False,ID_SCH_975130
+ID_LRN_505622,,Uwamahoro Redempta,Female,MPC,True,False,ID_SCH_975130
+ID_LRN_672051,,Nishimwe Ineza Annick Happy,Female,PCB,True,False,ID_SCH_975130
+ID_LRN_138680,,Mudahunga Christella,Female,MPC,True,False,ID_SCH_975130
+ID_LRN_911161,,Nkunduwera Divine,Female,PCB,True,False,ID_SCH_975130
+ID_LRN_875804,,Hirwa Itetero Naida,Female,MEG,True,False,ID_SCH_975130
+ID_LRN_887978,,Ishimwe Marie Yvonne,Female,PCB,True,False,ID_SCH_975130
+ID_LRN_099251,,Umutoniwase Raissa,Female,MPC,True,False,ID_SCH_975130
+ID_LRN_739859,,Habineza Juru Rita Charisma,Female,MPC,True,False,ID_SCH_975130
+ID_LRN_280603,,Gatesi Kagaba Lauria Megane,Female,MEG,True,False,ID_SCH_975130
+ID_LRN_216496,,Hategekimana Ineza Elisa,Female,MEG,True,False,ID_SCH_975130
+ID_LRN_674135,,Ruhatana Teta Uwase Queen,Female,MEG,True,False,ID_SCH_975130
+ID_LRN_863326,,Karabo Abarikumwe Ella Stessy,Female,PCB,True,False,ID_SCH_975130
+ID_LRN_346423,,Uwase Ines,Female,MPC,True,False,ID_SCH_975130
+ID_LRN_476042,,Isano Jovine,Female,PCB,True,False,ID_SCH_975130
+ID_LRN_539076,,Ishimwe Merveille,Female,PCB,True,False,ID_SCH_975130
+ID_LRN_013086,,Niyirora Win,Female,PCB,True,False,ID_SCH_975130
+ID_LRN_029421,,Ineza Iradukunda Kevine,Female,MPC,True,False,ID_SCH_975130
+ID_LRN_979573,,Senga Iganze Aimee Leila,Female,MPC,True,False,ID_SCH_975130
+ID_LRN_195483,,Dushime Teta Annaelle,Female,MPC,True,False,ID_SCH_975130
+ID_LRN_922593,,Hakizimana Ishimwe Arthur,Male,PCM,True,False,
+ID_LRN_111289,,Sebushumba Ganza Dylan,Male,PCM,True,False,ID_SCH_807704
+ID_LRN_991735,,Niyomurengezi Olivier,Male,PCM,True,False,ID_SCH_807704
+ID_LRN_874638,,Ndashimye Shami Ben Victor,Male,MCB,True,False,ID_SCH_807704
+ID_LRN_372948,,Niyonkuru Pacifique,Male,MCB,True,False,ID_SCH_807704
+ID_LRN_856669,,Ishimwe Kayisinga Raoul,Male,MCB,True,False,ID_SCH_807704
+ID_LRN_089223,,Kwizera Rugwiro Norbert,Male,MCB,True,False,ID_SCH_807704
+ID_LRN_204058,,Ndashimye Ngoga Henri Chris,Male,PCM,True,False,ID_SCH_807704
+ID_LRN_800385,,Gisingizo Lucky Parfait,Male,PCB,True,False,ID_SCH_807704
+ID_LRN_464076,,Dushimimana Olivier,Male,MCB,True,False,ID_SCH_807704
+ID_LRN_636034,,Igiraneza Vincent de Paul,Male,PCM,True,False,ID_SCH_807704
+ID_LRN_915561,,Byiringiro Arsene,Male,PCB,True,False,ID_SCH_807704
+ID_LRN_461481,,Inema Mugisha Aldo,Male,PCB,True,False,ID_SCH_807704
+ID_LRN_586998,,Ineza Biseruka Bryan,Male,PCB,True,False,ID_SCH_807704
+ID_LRN_581822,,Irakoze Diogene,Male,MCB,True,False,ID_SCH_807704
+ID_LRN_542490,,Mpana Irakoze Chrispin,Male,PCB,True,False,ID_SCH_807704
+ID_LRN_234136,,Habiyaremye Pierre Celestin,Male,PCB,True,False,ID_SCH_807704
+ID_LRN_196378,,Mutozo Son Aldo,Male,PCM,True,False,ID_SCH_807704
+ID_LRN_112394,,Igiraneza Viva Yannick,Male,MCB,True,False,ID_SCH_807704
+ID_LRN_169424,,Irakoze Sangwa Alain Parfait,Male,PCB,True,False,ID_SCH_807704
+ID_LRN_348624,,Maniraguha Igihozo Samuel,Male,MCB,True,False,ID_SCH_807704
+ID_LRN_340820,,Niyonizera Aulas Servi,Male,PCB,True,False,ID_SCH_807704
+ID_LRN_703264,,Nshimiyimana Jean Claude,Male,MCB,True,False,ID_SCH_807704
+ID_LRN_097642,,Manishimwe Christian,Male,PCM,True,False,ID_SCH_807704
+ID_LRN_651367,,Mugisha Mugabo Gaston,Male,PCB,True,False,ID_SCH_807704
+ID_LRN_419391,,Akimanizanye Esther,Female,MCE,True,False,ID_SCH_115517
+ID_LRN_456612,,Usanase Daniella,Female,MCE,True,False,ID_SCH_115517
+ID_LRN_975682,,Ishimwe Peace Gadiella,Female,MPC,True,False,ID_SCH_115517
+ID_LRN_698536,,Niyongabo Ange Nickle,Female,MPC,True,False,ID_SCH_115517
+ID_LRN_712511,,Kaneza NKURUNZIZA Lisette,Female,MCE,True,False,ID_SCH_115517
+ID_LRN_758128,,Kanyana uwase Jany-Lay,Female,MPC,True,False,ID_SCH_115517
+ID_LRN_907237,,Umwizerwa Nelsa,Female,MCE,True,False,ID_SCH_115517
+ID_LRN_839347,,Mundere Eunice Linda,Female,MPC,True,False,ID_SCH_115517
+ID_LRN_332249,,Ineza Hirwa Délice,Female,MPC,True,False,ID_SCH_115517
+ID_LRN_426430,,Niyotwambaza Delimitive,Female,MPC,True,False,ID_SCH_115517
+ID_LRN_280751,,Muneza Sandra,Female,MCE,True,False,ID_SCH_115517
+ID_LRN_892728,,Ineza Simbi Paola,Female,MCE,True,False,ID_SCH_115517
+ID_LRN_837845,,Karungi Blenda,Female,MCE,True,False,ID_SCH_115517
+ID_LRN_354479,,Uwumuremyi Ishimwe Fidelante,Female,MPC,True,False,ID_SCH_115517
+ID_LRN_871931,,Turikumwe Lydivine,Female,MPC,True,False,ID_SCH_115517
+ID_LRN_177413,,Umuhoza Caline,Female,MPC,True,False,ID_SCH_115517
+ID_LRN_320651,,umulisa Mwiza Christa,Female,MCE,True,False,ID_SCH_115517
+ID_LRN_145125,,Mugeni Stella Esther,Female,MCE,True,False,ID_SCH_115517
+ID_LRN_999871,,Kamugisha Renice,Female,MCE,True,False,ID_SCH_115517
+ID_LRN_096433,,Isimbi Joyeuse,Female,MPC,True,False,
+ID_LRN_562121,,Mutambuka Narada,Female,MPC,True,False,ID_SCH_115517
+ID_LRN_044690,,Beza Teta Ashah,Female,MCE,True,False,ID_SCH_115517
+ID_LRN_587909,,Dukuzuwera Caline,Female,MCE,True,False,ID_SCH_115517
+ID_LRN_046205,,Isimbi Mutesi Emily,Female,MCE,True,False,ID_SCH_115517
+ID_LRN_188144,,Giramata Neema odile,Female,MCE,True,False,ID_SCH_115517
+ID_LRN_754346,,uwizeyimana Honorine,Female,MPC,True,False,ID_SCH_115517
+ID_LRN_118359,,Uwajeneza Gikundiro Beline.,Female,MCE,True,False,ID_SCH_115517
+ID_LRN_854867,,Umutesi Belyse,Female,MCE,True,False,ID_SCH_115517
+ID_LRN_239368,,uwamahoro Josiane,Female,MCE,True,False,ID_SCH_115517
+ID_LRN_043837,,Ikuzwe Teta Ella,Female,MPC,True,False,ID_SCH_115517
+ID_LRN_425909,,Shimwa Cindy First,Female,S2,True,False,
+ID_LRN_360404,,Umurerwa Kevine,Female,S2,True,False,
+ID_LRN_968258,,Naomie Clementine,Female,S2,True,False,ID_SCH_126493
+ID_LRN_207293,,Niyonsenga Valens,Male,S2,True,False,
+ID_LRN_358556,,Irankunda Jean Claude,Male,S2,True,False,
+ID_LRN_739541,,Niyigena Innocent,Male,S2,True,False,ID_SCH_126493
+ID_LRN_950143,,Uwayisenga Esther,Female,S2,True,False,ID_SCH_126493
+ID_LRN_806276,,Sibomana Jules,Male,S2,True,False,ID_SCH_126493
+ID_LRN_197741,,Ndayishimye Clementine,Female,S2,True,False,ID_SCH_126493
+ID_LRN_621083,,Manirakiza Darada,Female,S2,True,False,ID_SCH_126493
+ID_LRN_903199,,Uwase M Liliane,Female,S2,True,False,
+ID_LRN_805128,,Gatoya Salomon,Male,S2,True,False,
+ID_LRN_092289,,Iradukunda Chantal,Female,S2,True,False,ID_SCH_126493
+ID_LRN_596620,,Imfurakazi Mami,Female,S2,True,False,
+ID_LRN_010203,,Ntawigenera Ishimwe,Male,S2,True,False,ID_SCH_126493
+ID_LRN_474694,,Niyomwungeli Adeline,Female,S2,True,False,
+ID_LRN_474632,,Akimana Sylvie,Female,S2,True,False,ID_SCH_126493
+ID_LRN_745346,,Imanishimwe Joselyne,Female,S2,True,False,ID_SCH_126493
+ID_LRN_267329,,Uwamahoro Aline,Female,S2,True,False,
+ID_LRN_715155,,Uwijuru Farida,Female,S2,True,False,
+ID_LRN_106150,,Umwali Carine,Female,S2,True,False,ID_SCH_300572
+ID_LRN_593680,,Uwineza Lucky,Female,S2,True,False,ID_SCH_126493
+ID_LRN_509228,,Uwiringiyimana Jeanine,Female,S2,True,False,ID_SCH_126493
+ID_LRN_659641,,Mukamana Anysie,Female,S2,True,False,
+ID_LRN_481301,,Barasenga Placide,Male,S2,True,False,
+ID_LRN_257670,,UWIZEYE UMUKUNDWA Josee Emmanuella,Female,PCM,True,False,ID_SCH_830588
+ID_LRN_575164,,MORISHO Austin,Male,PCB,True,False,ID_SCH_830588
+ID_LRN_742543,,KWIZERA James,Male,PCM,True,False,ID_SCH_830588
+ID_LRN_474683,,INGABIRE Angelique,Female,PCB,True,False,ID_SCH_830588
+ID_LRN_421999,,MUKESHIMANA Felix,Male,LFKK,True,False,ID_SCH_830588
+ID_LRN_259029,,UWIMANA Rachel,Female,PCB,True,False,ID_SCH_830588
+ID_LRN_945877,,Muyizere Elysee,Male,HGL,True,False,ID_SCH_830588
+ID_LRN_304701,,GIHOZO Pacifique,Male,PCB,True,False,ID_SCH_830588
+ID_LRN_811780,,GIRANEZA Celia Pamella,Female,PCB,True,False,ID_SCH_830588
+ID_LRN_827273,,NISHIMWE  Aime John,Male,PCB,True,False,ID_SCH_830588
+ID_LRN_446074,,SEKABERA Venuste,Male,PCM,True,False,ID_SCH_830588
+ID_LRN_392103,,IRASHOBOYE Ladouce Parfaite,Female,LFKK,False,False,
+ID_LRN_527600,,ABAYISENGA Divine,Female,PCB,True,False,ID_SCH_830588
+ID_LRN_443842,,UWASE Jolie,Female,PCB,True,False,
+ID_LRN_612559,,UMWARI NSHUTI Liliose,Female,PCB,True,False,ID_SCH_830588
+ID_LRN_271182,,UWAMAHORO Clarisse,Female,PCB,True,False,
+ID_LRN_286543,,ISHIMWE Eliane,Female,MCE,True,False,ID_SCH_830588
+ID_LRN_115718,,MBONIMANA Eric,Male,PCM,True,False,ID_SCH_830588
+ID_LRN_930575,,NIYIGENA Delissa,Male,PCB,True,False,ID_SCH_830588
+ID_LRN_387001,,MANZI Dieu Veux Djibrile,Male,PCM,True,False,ID_SCH_830588
+ID_LRN_457860,,KWIHANGANA Iratinze Elysee,Male,MCE,True,False,ID_SCH_830588
+ID_LRN_871849,,IGIRANEZA Jean Baptiste,Male,MCE,True,False,ID_SCH_830588
+ID_LRN_047223,,MUGWANEZA JEAN AIME,Male,PCB,True,False,ID_SCH_830588
+ID_LRN_724276,,MUNYAKAZI Jean Rouney,Male,MCE,True,False,ID_SCH_830588
+ID_LRN_696577,,MUGISHA Elyse,Male,LFKK,True,False,ID_SCH_830588
+ID_LRN_286840,,Rusaro Niella Auxanne,Female,MPC,True,False,ID_SCH_331383
+ID_LRN_463601,,Ihimbazwe Irakoze Merveille,Female,PCB,True,False,ID_SCH_331383
+ID_LRN_584942,,Ishimwe Angela Schilo,Female,MPC,True,False,ID_SCH_331383
+ID_LRN_749775,,Gasaro Isimbi Melissa,Female,MPC,True,False,ID_SCH_331383
+ID_LRN_914763,,Kayisire Elsy,Female,PCM,True,False,
+ID_LRN_606090,,Sanga Bahizi Neilla Ange Brianna,Female,PCB,True,False,ID_SCH_331383
+ID_LRN_027610,,Ineza Jenny,Female,PCB,True,False,ID_SCH_331383
+ID_LRN_618611,,Ineza Karangwa Audrey,Female,MPG,True,False,ID_SCH_331383
+ID_LRN_936276,,Ineza Cedrine Blessing,Female,PCB,True,False,ID_SCH_331383
+ID_LRN_794117,,Bahati Dorcas,Female,PCB,True,False,
+ID_LRN_153534,,Iyakaremye Gihozo Noella,Female,MPC,True,False,ID_SCH_331383
+ID_LRN_532405,,Isimbi hyacinthe Sonia,Female,PCB,True,False,
+ID_LRN_733413,,Ntete Charmante,Female,MPC,True,False,ID_SCH_331383
+ID_LRN_353030,,Iradukunda Chartine,Female,MPC,True,False,ID_SCH_331383
+ID_LRN_096622,,Ineza Rugira Rita,Female,MPC,True,False,ID_SCH_331383
+ID_LRN_578498,,Cyuzuzo Anitha,Female,PCB,False,False,
+ID_LRN_831745,,Gisigo Teta Keicy,Female,PCB,True,False,ID_SCH_331383
+ID_LRN_566177,,Agasaro Mugabo Divine,Female,MPC,False,False,
+ID_LRN_767960,,Ndabikunze Keza Ora Aella,Female,PCM,True,False,ID_SCH_331383
+ID_LRN_029456,,Isheja Mutangana Laika,Female,MPC,True,False,ID_SCH_331383
+ID_LRN_925915,,Cyuzuzo Ashimwe Nikita,Female,PCB,True,False,ID_SCH_331383
+ID_LRN_005036,,Rujeni Mico Aniella,Female,PCM,True,False,ID_SCH_331383
+ID_LRN_554052,,Abera Laura Alleluia,Female,PCB,True,False,ID_SCH_331383
+ID_LRN_853577,,Agasaro Abigail,Female,MPC,True,False,ID_SCH_331383
+ID_LRN_453513,,Diane Mukundwa,Female,MPC,True,False,ID_SCH_331383
+ID_LRN_874708,,SANGANO White,Female,PCB,True,False,ID_SCH_692315
+ID_LRN_467020,,BIMENYIMANA David,Male,PCB,True,False,ID_SCH_692315
+ID_LRN_354072,,HARINDINTWARI Phocas,Male,PCB,True,False,ID_SCH_692315
+ID_LRN_901121,,ASHIMWE Ange Priscilla,Female,PCB,True,False,ID_SCH_692315
+ID_LRN_696334,,IMPUNDU Sonia Consolatrice,Female,PCB,True,False,ID_SCH_692315
+ID_LRN_106164,,UWAYEZU Gloire Noella,Female,PCB,True,False,ID_SCH_692315
+ID_LRN_546081,,SHIMWA Happy Blaise,Male,PCB,True,False,ID_SCH_692315
+ID_LRN_859255,,IRAKOZE BUMWE Eloi,Male,PCB,True,False,ID_SCH_692315
+ID_LRN_498330,,UMURERWA Emelyne,Female,PCB,True,False,ID_SCH_692315
+ID_LRN_139240,,MUTUYIMANA Vivine,Female,PCB,True,False,ID_SCH_692315
+ID_LRN_640313,,UWIRINGIMANA David,Male,PCB,True,False,ID_SCH_692315
+ID_LRN_337963,,ISHIMWE Jonathan,Male,PCB,True,False,ID_SCH_692315
+ID_LRN_471315,,UTSINZE KEZA Bless,Female,PCB,True,False,ID_SCH_692315
+ID_LRN_345438,,TUYISHIMIRE Yves,Male,Accounting,True,False,ID_SCH_692315
+ID_LRN_734972,,CYUZUZO Amelia,Female,Accounting,True,False,ID_SCH_692315
+ID_LRN_847973,,HUNDIWIMPUNDU Aleluia,Female,Accounting,True,False,ID_SCH_692315
+ID_LRN_170797,,ISHIMWE Thierry,Male,PCM,True,False,ID_SCH_692315
+ID_LRN_934023,,BIZIMANA Aimé Pacifique,Male,PCM,True,False,ID_SCH_692315
+ID_LRN_942784,,DUSHIMEYESU Léandre,Male,PCM,True,False,ID_SCH_692315
+ID_LRN_191771,,UMUGWANEZA Claudette,Female,PCM,True,False,ID_SCH_692315
+ID_LRN_014805,,IKUZO Alliance,Unknown,PCM,True,False,ID_SCH_692315
+ID_LRN_024831,,INEZA Fratelne Calvin,Male,PCM,True,False,ID_SCH_692315
+ID_LRN_876903,,GIRANEZA Bella Promesse,Female,MCB,True,False,ID_SCH_692315
+ID_LRN_600538,,IGIHOZO Ariel,Male,MCB,True,False,ID_SCH_692315
+ID_LRN_398772,,NIYOMUNGERI Jean Berchmas,Male,MCB,True,False,ID_SCH_692315
+ID_LRN_835004,,Samuel Twabonyimbaragazayo,Male,PCB,True,False,ID_SCH_230968
+ID_LRN_707984,,Cyizere Ntwali Parfait,Male,PCB,True,False,ID_SCH_230968
+ID_LRN_510909,,Umuragwa Gadine,Female,PCB,True,False,ID_SCH_230968
+ID_LRN_869738,,Nishimwe Dominique,Male,PCB,True,False,ID_SCH_230968
+ID_LRN_313999,,Iyoturikume Seraphin,Male,MCB,True,False,ID_SCH_230968
+ID_LRN_873464,,Samuel Itangishaka,Male,MCB,True,False,ID_SCH_230968
+ID_LRN_768287,,Shukuru Patience,Male,PCB,True,False,ID_SCH_230968
+ID_LRN_384041,,Fabrice Ibyimanikora,Male,PCB,True,False,ID_SCH_230968
+ID_LRN_573744,,Eliakim Niyukuri,Male,MCB,True,False,
+ID_LRN_645960,,Nduwimana Gedeon,Male,MCB,True,False,
+ID_LRN_675093,,Iyabivuze Hirwa Placide,Male,PCB,True,False,ID_SCH_230968
+ID_LRN_304160,,Ishimwe Devothe,Female,MCB,True,False,ID_SCH_230968
+ID_LRN_524857,,Habamugisha David,Male,MCB,True,False,ID_SCH_230968
+ID_LRN_705854,,Niyibizi Dieudonne,Male,MCB,True,False,ID_SCH_230968
+ID_LRN_017448,,Nijibu Nelgan Charité,Male,PCB,True,False,ID_SCH_230968
+ID_LRN_185055,,Dushimimana Arsene,Male,PCB,True,False,ID_SCH_230968
+ID_LRN_891214,,John Irakoze,Male,PCB,True,False,
+ID_LRN_251327,,Amani Aime Fabrice,Male,PCB,True,False,ID_SCH_230968
+ID_LRN_122634,,Mukaniyonkuru Clarisse,Female,MCB,True,False,ID_SCH_230968
+ID_LRN_955137,,Ikirezi Cynthia Martino,Female,MCB,True,False,
+ID_LRN_354057,,Muhawenimana Radju,Male,PCB,True,False,ID_SCH_230968
+ID_LRN_633044,,Kubwimana Irumva Acqueline,Female,MCB,True,False,ID_SCH_230968
+ID_LRN_350844,,Amos Niyigena,Male,PCB,True,False,ID_SCH_230968
+ID_LRN_236514,,Esther Uzayikorera,Female,MCB,True,False,ID_SCH_230968
+ID_LRN_048682,,Olivier Hakizimana,Male,MCB,True,False,ID_SCH_230968
+ID_LRN_314631,,IRANKUNDA ARSTIDE,Male,MPG,True,False,ID_SCH_298130
+ID_LRN_648134,,KALISA CHRISTIAN,Male,PCB,True,False,ID_SCH_298130
+ID_LRN_181519,,ISHIMWE CHRISTA ALBINE,Female,PCB,True,False,ID_SCH_298130
+ID_LRN_383634,,IGABE GRADE,Female,MCB,True,False,ID_SCH_298130
+ID_LRN_240388,,MUCYO KEVIN,Male,PCB,True,False,ID_SCH_298130
+ID_LRN_857389,,MASENGESHO REINE ADELAIDE,Female,MCB,True,False,
+ID_LRN_127888,,UWASE DIVINE,Female,MCB,True,False,ID_SCH_298130
+ID_LRN_827255,,GISUBIZO SYLVINE,Female,MCB,True,False,ID_SCH_298130
+ID_LRN_795381,,ISHIMWE DEBORAH,Female,MCB,True,False,
+ID_LRN_233697,,UWINEZA DIANE,Female,PCB,True,False,ID_SCH_298130
+ID_LRN_270763,,DUSENGIMANA FELECIEN,Male,PCB,True,False,ID_SCH_298130
+ID_LRN_553134,,CYOMUHENDO MOUBARAK,Male,MCB,True,False,
+ID_LRN_817001,,KABARISA CHASTE,Male,MPG,True,False,ID_SCH_298130
+ID_LRN_490583,,NSHUTI JABO DAVID,Male,MCB,True,False,ID_SCH_298130
+ID_LRN_411287,,TWIZERIMANA  INNOCENT,Male,MPG,True,False,ID_SCH_298130
+ID_LRN_591661,,DUSHIME JOSUE,Male,PCB,True,False,ID_SCH_298130
+ID_LRN_560300,,KABATESI NADINE,Female,MEG,True,False,
+ID_LRN_266035,,BAZAMUKE PAMELLA,Female,MCB,True,False,ID_SCH_298130
+ID_LRN_114130,,ISHIMWE EGIDE,Male,MEG,False,False,
+ID_LRN_926199,,MUCYO BELIEVE,Male,PCB,False,False,
+ID_LRN_472957,,ISHIMWE ABDOUL RAZAK,Male,PCB,True,False,ID_SCH_298130
+ID_LRN_441193,,ASHIMWE AINE,Male,MPG,True,False,
+ID_LRN_371392,,INGABIRE AKARABO CLEMENCE,Female,PCB,True,False,
+ID_LRN_299422,,KUZO BLAISE,Male,MEG,True,False,ID_SCH_298130
+ID_LRN_926602,,RUSARO ALLIAH,Female,PCB,True,False,ID_SCH_298130
+ID_LRN_585005,,Uhorasenga Florence,Female,S2,True,False,ID_SCH_749630
+ID_LRN_035961,,Uwase Emelyne,Female,S2,True,False,ID_SCH_749630
+ID_LRN_180943,,Uwitonze Happiness,Female,S2,True,False,ID_SCH_749630
+ID_LRN_083880,,Mugwiza Anicet Goustave,Male,S2,True,False,ID_SCH_749630
+ID_LRN_976674,,Niyonsaba Claver,Male,S2,True,False,ID_SCH_749630
+ID_LRN_892864,,Manirafasha Jean Pierre,Male,S2,True,False,ID_SCH_749630
+ID_LRN_417704,,Niyitanga Anaclet,Male,S2,True,False,ID_SCH_749630
+ID_LRN_560668,,Nyiranshimiyimana Judith,Female,S2,True,False,ID_SCH_749630
+ID_LRN_835202,,Niyonsimza Josue,Male,S2,True,False,
+ID_LRN_979192,,Bikorimana Theofile,Male,S2,True,False,ID_SCH_749630
+ID_LRN_363464,,Irakoze Diane,Female,S2,True,False,
+ID_LRN_418800,,Uwiringiyimana Sandrine,Female,S2,True,False,ID_SCH_749630
+ID_LRN_661167,,Impano Ndayishimiye Roger,Male,S2,True,False,ID_SCH_749630
+ID_LRN_071890,,Mutuyimana Yvette,Female,S2,True,False,ID_SCH_749630
+ID_LRN_132079,,Imanishimwe Sifa,Female,S2,True,False,ID_SCH_749630
+ID_LRN_093644,,Irasubiza Fazir,Male,S2,True,False,ID_SCH_749630
+ID_LRN_237797,,Ishimwe Chanceline,Female,S2,True,False,ID_SCH_749630
+ID_LRN_086050,,Nishimwe Benitha,Female,S2,True,False,ID_SCH_749630
+ID_LRN_081123,,Liliane Gisubizo,Female,MCE,True,False,ID_SCH_145402
+ID_LRN_824927,,Jean Claude Nizeyimana,Male,LFK,True,False,ID_SCH_145402
+ID_LRN_031672,,Iragena Benitha,Female,LFK,True,False,ID_SCH_145402
+ID_LRN_536004,,Byiringiro Fulgence,Male,MCE,True,False,ID_SCH_145402
+ID_LRN_910752,,Abizera Emerance,Female,LFK,True,False,ID_SCH_145402
+ID_LRN_264758,,Rukundo Aimable,Male,LFK,True,False,ID_SCH_145402
+ID_LRN_315879,,Dusabemariya Constantine,Female,LFK,True,False,ID_SCH_145402
+ID_LRN_491570,,Dusingizimana Ernest,Male,HGL,True,False,ID_SCH_145402
+ID_LRN_644382,,Niyonsenga Elia,Male,LFK,True,False,ID_SCH_145402
+ID_LRN_529014,,Jean Paul Tugirimana,Male,LFK,True,False,
+ID_LRN_026045,,Ihimbazwe Hyancitha,Female,MCE,True,False,ID_SCH_145402
+ID_LRN_523954,,Tuyishimire Christian,Male,LFK,True,False,ID_SCH_145402
+ID_LRN_657480,,Isangenkundi Clemence,Female,LFK,True,False,ID_SCH_145402
+ID_LRN_047656,,Igihozo Fabiola,Female,LFK,True,False,ID_SCH_145402
+ID_LRN_163823,,Ishimwe Iphigenie,Female,MCE,True,False,
+ID_LRN_597483,,Utamuriza Sandrine,Female,MCE,True,False,ID_SCH_145402
+ID_LRN_008449,,Uwamahoro Claire,Female,LFK,True,False,ID_SCH_145402
+ID_LRN_222177,,Uwambajimana Provia,Female,LFK,True,False,ID_SCH_145402
+ID_LRN_285262,,Bayisingize Patience,Female,LFK,True,False,ID_SCH_145402
+ID_LRN_075059,,Nyiraneza Aline,Female,LFK,False,False,
+ID_LRN_550996,,Kanyange Isabelle,Female,,False,True,
+ID_LRN_971553,,MUGISHA MUGAZA Victoire,Female,PCM,True,False,ID_SCH_300572
+ID_LRN_237351,,TUYIZERE Eric,Male,PCM,True,False,ID_SCH_300572
+ID_LRN_261727,,ISIMBI Carine,Female,MCB,True,False,ID_SCH_300572
+ID_LRN_388931,,BYIRINGIRO Josue,Male,MCB,True,False,ID_SCH_300572
+ID_LRN_917280,,MUTANGANA Prince,Male,PCM,True,False,ID_SCH_300572
+ID_LRN_872476,,MUCYO Marie Denyse,Female,MCB,True,False,ID_SCH_300572
+ID_LRN_135528,,HABIYAVUZE Christian,Male,PCM,True,False,ID_SCH_300572
+ID_LRN_775050,,UWAMAHORO Carine,Female,PCM,True,False,ID_SCH_300572
+ID_LRN_379793,,IZERE Bertin,Male,PCM,True,False,ID_SCH_300572
+ID_LRN_798514,,UWAJENEZA Oleba,Female,MCB,True,False,ID_SCH_300572
+ID_LRN_559860,,UWIHANGANYE Theogene,Male,PCM,True,False,ID_SCH_300572
+ID_LRN_450968,,MASENGESHO Ange,Female,PCM,True,False,ID_SCH_300572
+ID_LRN_570675,,HIRWA Danny,Male,MCB,True,False,ID_SCH_300572
+ID_LRN_859866,,NIYONGABO Frank,Male,PCM,True,False,
+ID_LRN_927599,,NIYOKWIZERWA Raban,Male,PCM,True,False,ID_SCH_300572
+ID_LRN_977614,,INGABIRE Aline,Female,MCB,True,False,ID_SCH_300572
+ID_LRN_416374,,HAFASHIMANA Theophile,Male,PCM,True,False,ID_SCH_300572
+ID_LRN_122333,,NDAYAMBAJE Ildephonse,Male,MCB,True,False,ID_SCH_300572
+ID_LRN_236030,,MBONEZA Lisa,Female,PCM,True,False,ID_SCH_300572
+ID_LRN_587917,,IRAKOZE Rosine,Female,PCM,True,False,ID_SCH_300572
+ID_LRN_194730,,Irabizi Cedric,Male,PCM,True,False,ID_SCH_300572
+ID_LRN_840434,,HIRWA MUNYANEZA Fabrice,Male,MCB,True,False,ID_SCH_300572
+ID_LRN_702498,,MUSHIMIYIMANA Joselyne,Female,PCM,True,False,ID_SCH_300572
+ID_LRN_017955,,Asingizwe Theogene,Male,,True,True,ID_SCH_300572
+ID_LRN_581451,,ISHIMWE MUHIRE RICHARD,Male,PCB,True,False,ID_SCH_557120
+ID_LRN_102875,,MUNEZERO UWASE NICE,Female,PCB,True,False,ID_SCH_557120
+ID_LRN_408001,,ISHIMWE JACK,Male,PCB,True,False,ID_SCH_557120
+ID_LRN_457852,,MURAMIRA ALLAN,Male,PCB,True,False,ID_SCH_557120
+ID_LRN_336000,,ISHIMWE YVAN,Male,MCB,True,False,ID_SCH_557120
+ID_LRN_414643,,ISHIMWE PLAISIR PARFAIT,Male,PCB,True,False,ID_SCH_557120
+ID_LRN_809611,,ISHIMWE FULGENCE,Male,MCB,True,False,ID_SCH_557120
+ID_LRN_675540,,UKURI AMLAN,Male,PCB,True,False,ID_SCH_557120
+ID_LRN_900816,,UFITEYESU AMIE,Female,MCB,True,False,ID_SCH_557120
+ID_LRN_021780,,MBONIGABA MOISE,Male,PCB,True,False,ID_SCH_557120
+ID_LRN_455949,,UMUHIRE CLEMENT,Male,MCB,True,False,ID_SCH_557120
+ID_LRN_398820,,UMUTESI QUEEN,Female,MCB,True,False,ID_SCH_557120
+ID_LRN_205522,,IGIRIMBABAZI CYNTHIA,Female,MCB,True,False,ID_SCH_557120
+ID_LRN_442015,,UWIDUHAYE HENRIETTE,Female,PCB,True,False,ID_SCH_557120
+ID_LRN_589061,,Ishimwe Yvette,Female,PCB,True,False,ID_SCH_557120
+ID_LRN_280470,,Basangira Mathis Gabriel,Male,PCB,False,False,
+ID_LRN_649009,,Uwiduhaye aline,Female,PCB,True,False,ID_SCH_557120
+ID_LRN_986553,,IMANANIYO USHINDI,Female,PCB,True,False,ID_SCH_557120
+ID_LRN_559897,,ISEZERANO KIZITO,Male,MCB,True,False,ID_SCH_557120
+ID_LRN_872195,,TUYISENGE JEAN ClaUDE,Male,PCB,True,False,ID_SCH_557120
+ID_LRN_422812,,TUYIRINGIRE JOYEUX,Male,PCB,True,False,ID_SCH_557120
+ID_LRN_968685,,IRASUBIZA FIDELE,Male,MCB,True,False,ID_SCH_557120
+ID_LRN_919200,,HAKORIMANA INNOCENT,Male,PCB,True,False,ID_SCH_557120
+ID_LRN_129134,,Irakiza Patrick,Male,MCB,True,False,ID_SCH_557120
+ID_LRN_812469,,NAYIHIKI UWASE PASCALINE,Female,PCB,True,False,ID_SCH_557120
+ID_LRN_152564,,Manzi  Bide,Male,PCB,True,False,
+ID_LRN_805015,,IKUZORYAYEZU JEAN BAPTISTE,Male,MCB,True,False,ID_SCH_511502
+ID_LRN_962031,,IRASOHOZA ROSTANGE PROMESSE,Male,PCB,True,False,ID_SCH_511502
+ID_LRN_653248,,HIRWA Hussein,Male,PCB,False,False,
+ID_LRN_480409,,MUCYOWAKA  GLORIA,Female,MCB,True,False,ID_SCH_511502
+ID_LRN_038557,,MUGISHA Nelson,Male,PCB,True,False,
+ID_LRN_769229,,CYUZUZO  Kevin,Male,MCB,True,False,ID_SCH_511502
+ID_LRN_506841,,Muganga  Samir,Male,PCB,True,False,ID_SCH_511502
+ID_LRN_190912,,MUGISHA  Albert,Male,PCB,True,False,
+ID_LRN_001046,,IRASUBIZA NIYOMUGENGA SALVIE,Male,MPG,True,False,ID_SCH_511502
+ID_LRN_213395,,KUNDWA  Kelvin,Male,PCB,True,False,ID_SCH_511502
+ID_LRN_634118,,IHIRWE HUBERT GASTON,Male,MCB,True,False,
+ID_LRN_702915,,MUGISHA Samuel,Male,PCB,True,False,ID_SCH_749704
+ID_LRN_309665,,BONHEUR ALIVE VALENTIN,Male,PCB,True,False,ID_SCH_511502
+ID_LRN_602324,,UWIMANA  OLIVIER,Male,MCB,True,False,
+ID_LRN_790005,,BYIRINGIRO Jean Claude,Male,MCB,True,False,
+ID_LRN_129279,,IZAHORANANATWE  ENOCK,Male,MPC,True,False,ID_SCH_511502
+ID_LRN_669703,,IZATURINDA JEAN CHANCE,Male,MCB,True,False,ID_SCH_511502
+ID_LRN_047108,,IRAKOZE  Pacifique,Male,PCB,True,False,
+ID_LRN_993488,,ABASHAKIMANA  SOLEIL,Female,MCB,True,False,ID_SCH_511502
+ID_LRN_130152,,IHIMBAZWE MOISE,Male,PCB,True,False,
+ID_LRN_480687,,Rukundo Didier,Male,PCB,True,False,
+ID_LRN_818011,,IRAGENA HONORINE,Female,MCB,True,False,ID_SCH_511502
+ID_LRN_815123,,KAZENEZA JOSIANNE,Female,MPC,True,False,ID_SCH_511502
+ID_LRN_218041,,NDAYISHIMIYE JEAN ClaUDE,Male,PCB,True,False,ID_SCH_511502
+ID_LRN_148303,,MUCYO NSABA Yves,Male,S2,True,False,ID_SCH_172122
+ID_LRN_106451,,Ndikumana Pie,Male,MCE,True,False,ID_SCH_172122
+ID_LRN_875279,,RWAKANA Sulaiman Mudjib,Male,TSS,True,False,ID_SCH_172122
+ID_LRN_587918,,INGABIRE Hycentha,Female,MEG,True,False,ID_SCH_172122
+ID_LRN_222389,,NIYIZUBWENGE Godwin,Female,MEG,True,False,ID_SCH_172122
+ID_LRN_475137,,SUGIRA RUZAGIRIZA Stella,Female,S2,True,False,ID_SCH_172122
+ID_LRN_501130,,KAYIRANGA SHIMWA Prince,Male,S2,True,False,ID_SCH_172122
+ID_LRN_571387,,SEZERANO Dominique Xavio,Male,S2,True,False,ID_SCH_172122
+ID_LRN_298977,,KAMIKAZI Patience,Female,MCE,True,False,ID_SCH_172122
+ID_LRN_655339,,KAMI Trevor,Male,MCE,True,False,ID_SCH_172122
+ID_LRN_663628,,Nishimwe Rebecca,Female,MCE,True,False,ID_SCH_172122
+ID_LRN_281803,,BYIRINGIRO Evra,Male,MCE,True,False,ID_SCH_172122
+ID_LRN_472829,,MUCYO Patrick,Male,MCE,True,False,ID_SCH_172122
+ID_LRN_712598,,KWIZERA Emery,Male,TSS,True,False,ID_SCH_172122
+ID_LRN_686344,,Ganza Sankala,Male,MCE,True,False,ID_SCH_172122
+ID_LRN_008841,,Rugwiro Kevin,Male,TSS,True,False,ID_SCH_172122
+ID_LRN_817290,,Umukundwa Penuel Prince,Male,MCE,True,False,ID_SCH_172122
+ID_LRN_916665,,Ninkabandi Nakure Oda Englid,Female,MCE,True,False,ID_SCH_172122
+ID_LRN_301143,,Umutoniwase Kevine,Female,TSS,True,False,ID_SCH_172122
+ID_LRN_149170,,Irumva Teta Kevin,Male,MCE,True,False,ID_SCH_172122
+ID_LRN_783195,,ISHIMWE Forever,Female,S2,True,False,ID_SCH_172122
+ID_LRN_050898,,IRADUKUNDA Rene,Male,MCE,True,False,ID_SCH_172122
+ID_LRN_596491,,MUSHIMIYIMANA Solange,Female,MCE,True,False,ID_SCH_172122
+ID_LRN_266602,,IRAKOZE MUTONI Teckla,Female,S2,True,False,ID_SCH_172122
+ID_LRN_375769,,SHIMIRWA josue,Male,MCE,True,False,ID_SCH_172122
+ID_LRN_882260,,KWIZERA Pierre,Male,L3,True,False,ID_SCH_223450
+ID_LRN_019426,,DUSENGIMANA Ferdinand,Male,S2,True,False,ID_SCH_223450
+ID_LRN_694445,,Tumaine Binn Aimable,Male,S2,True,False,ID_SCH_223450
+ID_LRN_595855,,MUNEZA Philippe,Male,L3,True,False,ID_SCH_223450
+ID_LRN_185204,,TUYIZERE Jean Luc,Male,L3,True,False,ID_SCH_223450
+ID_LRN_449719,,UKWIBISHAKA Ernestine,Female,L3,True,False,ID_SCH_223450
+ID_LRN_066081,,ABIKUNDA Elyse,Male,S2,True,False,ID_SCH_223450
+ID_LRN_733524,,BYIRINGIRO Olivier,Male,S2,True,False,ID_SCH_223450
+ID_LRN_185764,,BUGINGO UWINEZA Sosthene,Male,S2,True,False,
+ID_LRN_996299,,TWAHIRWA Fred,Male,L3,True,False,ID_SCH_223450
+ID_LRN_069265,,Dusingizimana Aimer La Vie,Female,S2,True,False,ID_SCH_223450
+ID_LRN_371842,,Asante Albertine,Female,,True,True,ID_SCH_223450
+ID_LRN_464899,,DUKUNDIMANA SIMEON,Male,S2,True,False,ID_SCH_223450
+ID_LRN_048666,,Cyusa Belyse Prudencienne,Female,L3,True,False,ID_SCH_223450
+ID_LRN_190962,,DUFITUMUKIZA Jean Claude,Male,S2,True,False,ID_SCH_223450
+ID_LRN_518602,,RWIGEMA Issa,Male,L3,True,False,ID_SCH_223450
+ID_LRN_736153,,Iradukunda Betty,Female,S2,True,False,ID_SCH_223450
+ID_LRN_302409,,NSANZIYAREMYE Olivier,Male,L3,True,False,
+ID_LRN_469084,,Elie Nzabandora,Male,S2,True,False,ID_SCH_223450
+ID_LRN_375238,,Hirwa Aliane,Female,PCB,True,False,ID_SCH_665972
+ID_LRN_314983,,Niwemwiza Teta Kenia,Female,MCE,True,False,ID_SCH_665972
+ID_LRN_781945,,Gatesi Vanessa,Female,MCE,False,False,
+ID_LRN_856260,,Keza Divine,Female,PCB,True,False,ID_SCH_665972
+ID_LRN_714302,,Mbabazi Jennifer Aela,Female,PCB,True,False,ID_SCH_665972
+ID_LRN_259373,,Irakoze Agasaro Helvine,Female,MEG,True,False,ID_SCH_665972
+ID_LRN_853675,,Keza Tonia,Female,PCB,True,False,ID_SCH_665972
+ID_LRN_215342,,Agasaro Peace Mary Hakizimana,Female,PCB,True,False,ID_SCH_665972
+ID_LRN_717571,,Irasubiza Ainee Ange Vivine,Female,PCB,True,False,ID_SCH_665972
+ID_LRN_716776,,Uwacu Mugisha Nadia,Female,MEG,True,False,ID_SCH_665972
+ID_LRN_451140,,Kubaho Amina,Female,PCB,True,False,ID_SCH_665972
+ID_LRN_586381,,Benihirwe Gift,Female,PCB,True,False,ID_SCH_665972
+ID_LRN_421115,,Keza Pamella,Female,MCE,True,False,ID_SCH_665972
+ID_LRN_995200,,Isaro Melissa,Female,MCE,True,False,ID_SCH_665972
+ID_LRN_211361,,Ineza Ganza Alice Wyila,Female,PCB,True,False,ID_SCH_665972
+ID_LRN_690458,,Keza Belyze,Female,PCB,True,False,ID_SCH_665972
+ID_LRN_784203,,Uhiriwe Fabiola,Female,MCE,True,False,ID_SCH_665972
+ID_LRN_761663,,Izere Ishimwe Kelvine,Female,MCE,True,False,ID_SCH_665972
+ID_LRN_139572,,Akeza Lilian,Female,MCE,True,False,ID_SCH_665972
+ID_LRN_257179,,Umurerwa Ghoumaissa,Female,MCE,True,False,ID_SCH_665972
+ID_LRN_967047,,Mukeshimana Delphine,Female,MEG,True,False,ID_SCH_665972
+ID_LRN_289106,,Uwase Esther,Female,PCB,True,False,ID_SCH_665972
+ID_LRN_729580,,Ineza Bugingo Daniella,Female,MCE,True,False,ID_SCH_665972
+ID_LRN_859129,,Nyiranziza Prisca,Female,MCE,True,False,ID_SCH_665972
+ID_LRN_658041,,Uwayo Jean,Female,PCB,True,False,ID_SCH_665972
+ID_LRN_806513,,ISHIMWE Nicole,Female,PCB,True,False,ID_SCH_662070
+ID_LRN_998611,,IGIHOZO UWASE Clarisse,Female,PCB,True,False,ID_SCH_662070
+ID_LRN_148316,,KANEZA Lucky Christiane,Female,PCB,True,False,ID_SCH_662070
+ID_LRN_125489,,IGIHOZO Paula Laurette,Female,MPG,True,False,ID_SCH_662070
+ID_LRN_527960,,SHENGE Shama,Female,MCB,True,False,ID_SCH_662070
+ID_LRN_905460,,UMUTONI SHAMI Christella,Female,MPC,True,False,ID_SCH_662070
+ID_LRN_538851,,ISHIMWE Latifa,Female,MCB,True,False,ID_SCH_662070
+ID_LRN_370215,,INEZA Albine,Female,MCB,True,False,ID_SCH_662070
+ID_LRN_162667,,IKUZWE Marie Grace,Female,MCB,True,False,ID_SCH_662070
+ID_LRN_552741,,IRANZI Christa Jessica,Female,MPG,True,False,ID_SCH_662070
+ID_LRN_242734,,UMUTESI Alice,Female,MCB,False,False,
+ID_LRN_504382,,CYUSA NEZERWA Evelyne,Female,PCB,True,False,ID_SCH_662070
+ID_LRN_977700,,KABATESI Prudenciene,Female,MPC,False,False,ID_SCH_663074
+ID_LRN_971962,,IRIHO Elyse,Female,PCB,True,False,ID_SCH_662070
+ID_LRN_369428,,MUTUYIMANA Rachel,Female,PCB,True,False,ID_SCH_662070
+ID_LRN_495118,,UDAHEMUKA Floride,Female,MPC,True,False,ID_SCH_662070
+ID_LRN_369496,,UMUTONIWASE Marie Claire,Female,PCB,True,False,ID_SCH_662070
+ID_LRN_928130,,MUTUYEMARIYA Marie Mediatrice,Female,MCB,True,False,ID_SCH_662070
+ID_LRN_719005,,IRANZI Yana Believe,Female,MCB,True,False,ID_SCH_662070
+ID_LRN_407081,,KWIHANGANA Sifa,Female,MPG,True,False,ID_SCH_662070
+ID_LRN_263687,,IRUMVA Micheline,Female,MPC,True,False,ID_SCH_830588
+ID_LRN_566942,,BYUKUSENGE Niyogisubizo Alice,Female,PCB,True,False,ID_SCH_662070
+ID_LRN_548775,,KIZERE Benitha,Female,PCB,True,False,ID_SCH_830588
+ID_LRN_811584,,UWUMUKIZA Adeline,Female,MCB,True,False,ID_SCH_662070
+ID_LRN_525701,,NIYORUMURI Nadia,Female,MPG,True,False,ID_SCH_662070
+ID_LRN_879932,,INEMA Honest,Female,PCB,True,False,ID_SCH_662070
+ID_LRN_324016,,GWIZA Ratwa Cezalie,Female,MPG,True,False,ID_SCH_662070
+ID_LRN_215820,,IGIRANEZA Laurita Iriza,Female,MPC,True,False,ID_SCH_662070
+ID_LRN_028564,,NIKUZE Divine,Female,MCB,True,False,ID_SCH_662070
+ID_LRN_652266,,MUTONI Valentine,Female,MCB,False,False,
+ID_LRN_612374,,INGABIYENEZA MAHORO  ASSIA,Female,MCB,True,False,ID_SCH_574873
+ID_LRN_852234,,INGABIRE KURAMA ORNELLA,Female,MCB,True,False,ID_SCH_574873
+ID_LRN_717949,,SHAMI ELLEN JOCELINE,Female,MCB,True,False,ID_SCH_574873
+ID_LRN_982226,,IGISUBIZO BELYSE,Female,MCB,False,False,
+ID_LRN_354884,,INEZA Peace,Female,MCB,True,False,ID_SCH_574873
+ID_LRN_301998,,NGABIKINZE GAD,Male,MCB,True,False,ID_SCH_574873
+ID_LRN_368570,,NARAYISABYE IZIMPAMVU PHANETTE,Female,MCB,True,False,ID_SCH_574873
+ID_LRN_033191,,SHEMARYAYESU Jean Jacques,Male,MCB,True,False,ID_SCH_574873
+ID_LRN_998709,,UWIDUHAYE GERMAINE,Female,MCB,True,False,ID_SCH_574873
+ID_LRN_004053,,IRANEZEZA  YANNICK,Female,MCB,True,False,ID_SCH_574873
+ID_LRN_470931,,IRANKUNDA Patience,Male,MCB,True,False,ID_SCH_574873
+ID_LRN_451676,,NSABIMANA Damascene,Male,MCB,True,False,ID_SCH_574873
+ID_LRN_971823,,MUKUNDENKASE UWASE PEACE,Female,MCB,True,False,ID_SCH_574873
+ID_LRN_015942,,KWIZERA JOB,Male,MCB,True,False,ID_SCH_574873
+ID_LRN_636572,,NIYOMWUNGERI Noella,Female,MCB,True,False,ID_SCH_574873
+ID_LRN_302432,,UWASENEZA THEONESTINE,Female,MCB,True,False,ID_SCH_574873
+ID_LRN_319907,,HAKIZAYEZU JEAN BAPTISTE,Male,MCB,True,False,ID_SCH_574873
+ID_LRN_386282,,KUBWIMANA EULER JOY ROMEO,Male,MCB,True,False,ID_SCH_574873
+ID_LRN_592235,,TUYIZERE REGIS,Male,MCB,True,False,ID_SCH_574873
+ID_LRN_673989,,KAYIRANGA Maurice,Male,MCB,True,False,ID_SCH_574873
+ID_LRN_432691,,MUHIRWA KELLY,Male,MCB,True,False,ID_SCH_574873
+ID_LRN_947248,,UWIZEYIMANA DEVOTHA,Female,MCB,True,False,ID_SCH_574873
+ID_LRN_410335,,IRADUKUNDA JMV,Male,MCB,True,False,ID_SCH_574873
+ID_LRN_905287,,UWIZEYIMANA Esther,Female,MCB,True,False,ID_SCH_574873
+ID_LRN_957103,,KWIZERA Abubakari,Male,MCB,True,False,ID_SCH_574873
+ID_LRN_875178,,Simbi Aurore,Female,MCB,True,False,
+ID_LRN_961498,,Uhagaze Shimwa Audrey,Female,PCM,True,False,
+ID_LRN_931626,,Keza Anaise Marielle Digne,Female,MCB,True,False,ID_SCH_609841
+ID_LRN_964465,,Mutara Anabella,Female,PCB,True,False,ID_SCH_609841
+ID_LRN_528242,,Inono Aicy Tekla,Female,PCM,True,False,ID_SCH_609841
+ID_LRN_761047,,Nishimwe Ornella,Female,PCM,True,False,ID_SCH_609841
+ID_LRN_321163,,Isimbi Shema Parfaite,Female,PCB,True,False,ID_SCH_609841
+ID_LRN_558932,,Uwase Sonia,Female,MPG,True,False,ID_SCH_609841
+ID_LRN_809074,,Igena Raina Claudia,Female,PCM,True,False,
+ID_LRN_632682,,Ingabire Marie Scovia,Female,MCB,True,False,
+ID_LRN_816833,,Isimbi Marebe Jessica,Female,PCM,True,False,
+ID_LRN_518580,,Icyaza Inyange,Female,PCM,True,False,
+ID_LRN_849855,,Ukwibishaka Josette,Female,MCB,True,False,
+ID_LRN_101874,,Igena Emily Joyeuse,Female,PCM,True,False,ID_SCH_609841
+ID_LRN_514699,,Ishimwe Dorcas,Female,PCM,True,False,
+ID_LRN_951782,,Kirabo Vaness,Female,MPG,True,False,ID_SCH_609841
+ID_LRN_531881,,Vanessa Gloria Nezarwa,Female,PCB,True,False,
+ID_LRN_370580,,Irumva Anne,Female,PCB,True,False,
+ID_LRN_006617,,Ihirwe Kirezi Beline,Female,MPG,True,False,ID_SCH_609841
+ID_LRN_574359,,Ishimwe Ange Ladouce,Female,PCB,True,False,
+ID_LRN_484287,,Uwase Peace,Female,PCM,True,False,
+ID_LRN_571467,,Kazoya Uwamahoro Merveille,Female,MCB,True,False,
+ID_LRN_576560,,Ishimwe Ange Certainess,Female,MCB,True,False,
+ID_LRN_661152,,Ringuyeneza Olga,Female,MPG,True,False,ID_SCH_609841
+ID_LRN_989655,,Kabera Meggi Tracy,Female,PCB,True,False,
+ID_LRN_057717,,Sonia Isimbi,Female,MEG,True,False,ID_SCH_997051
+ID_LRN_779847,,Orion Agasaro,Female,MEG,True,False,ID_SCH_997051
+ID_LRN_601185,,Divine Iragena,Female,MEG,True,False,ID_SCH_997051
+ID_LRN_069781,,Agatesi Sandra,Female,MEG,True,False,ID_SCH_997051
+ID_LRN_434038,,Divine Uwineza,Female,MCB,True,False,ID_SCH_997051
+ID_LRN_797367,,Umuhire Gwiza Ghalia,Female,MCE,True,False,ID_SCH_997051
+ID_LRN_581479,,Uhiriwe Dieu Merci,Female,MCB,True,False,ID_SCH_997051
+ID_LRN_412561,,Keza Mugisha Kellen,Female,MCE,True,False,ID_SCH_997051
+ID_LRN_330381,,Uwimana Emelyne,Female,MCB,True,False,ID_SCH_997051
+ID_LRN_869063,,Uwera Ines,Female,MCE,True,False,ID_SCH_997051
+ID_LRN_471566,,Kayitavu Audrey Gabine,Female,MCE,True,False,ID_SCH_997051
+ID_LRN_757350,,Keza Umukundwa Nadine,Female,MCE,True,False,ID_SCH_997051
+ID_LRN_090513,,Irakoze Marie Joselyne,Female,MCE,True,False,ID_SCH_997051
+ID_LRN_546152,,Munyana Annah,Female,MEG,True,False,ID_SCH_997051
+ID_LRN_526695,,Gift Akamanzi,Female,MCE,True,False,ID_SCH_997051
+ID_LRN_212362,,Gasaro Pearl,Female,MEG,True,False,ID_SCH_997051
+ID_LRN_859690,,Mumurarungu Kelly,Female,MCB,True,False,ID_SCH_997051
+ID_LRN_973978,,Uwimana Assoumpta,Female,MCB,True,False,ID_SCH_997051
+ID_LRN_454788,,Noella Tuyishime,Female,MCB,True,False,ID_SCH_997051
+ID_LRN_971982,,Gihozo Kevine,Female,MCB,True,False,ID_SCH_997051
+ID_LRN_076592,,Kamikazi Teta Ange,Female,MCB,True,False,ID_SCH_997051
+ID_LRN_771875,,Uwase Deborah,Female,MCB,True,False,ID_SCH_997051
+ID_LRN_783790,,Muhoza Queen,Female,MEG,True,False,ID_SCH_997051
+ID_LRN_519855,,Uwiringiyimana Marie Louise,Female,MCB,True,False,ID_SCH_997051
+ID_LRN_748309,,Ikimipaye Yvonne,Female,MEG,True,False,ID_SCH_997051
+ID_LRN_975197,,NZINKWINKUNDA SLVAN,Male,HGL,True,False,ID_SCH_567085
+ID_LRN_438257,,BAZUBAGIRA TETA Claudette,Female,HGL,True,False,
+ID_LRN_587664,,SIBOMANA KWIZERA STEVEN,Male,HGL,True,False,
+ID_LRN_566308,,ISHIMWE Elise,Female,LFK,True,False,
+ID_LRN_225024,,UZWINIMANA  CELINE,Female,HGL,True,False,ID_SCH_567085
+ID_LRN_047924,,UMUTONIWASE YVETTE,Female,HGL,True,False,
+ID_LRN_419279,,BYIRINGIRO Charles ELYSE,Male,HGL,True,False,
+ID_LRN_366548,,SHUMBUSHO FABRICE,Male,HGL,True,False,
+ID_LRN_338674,,IGIHOZO PATRICK AIME,Male,HGL,False,False,
+ID_LRN_147820,,MUJAWAYEZU JOSELYNE,Female,LFK,True,False,
+ID_LRN_880622,,UWIMPAYE KEZA STELLA,Female,MCE,True,False,
+ID_LRN_860126,,KWIZERA Etienne,Male,HGL,True,False,
+ID_LRN_539913,,UWINEZA Idrissa,Male,HGL,True,False,
+ID_LRN_929098,,NIYOMUFASHA PHILOMENE,Female,HGL,True,False,ID_SCH_567085
+ID_LRN_212586,,TWIZEYIMANA Paul,Male,HGL,True,False,
+ID_LRN_709992,,NYIRANSHIMIYIMAN JANVIERE,Female,MCE,True,False,
+ID_LRN_809366,,INGABIRE Noella,Female,MCE,True,False,
+ID_LRN_504399,,ISHOBORABYOSE Daniel,Male,HGL,True,False,
+ID_LRN_587678,,SHEMA CEDRICK,Male,HGL,True,False,
+ID_LRN_944048,,MFITUMUKIZA BENJAMIN,Male,HGL,True,False,
+ID_LRN_869286,,IZIBYOSE Olivier,Male,MCE,True,False,
+ID_LRN_127419,,MBARUSHIMANA JEAN BAPTISTE,Male,LFK,True,False,
+ID_LRN_878861,,ISINGIZWE Clementine,Female,HGL,True,False,
+ID_LRN_382277,,NIYONZIMA ERIC,Male,HGL,True,False,ID_SCH_749630
+ID_LRN_650593,,BAKUNDUFITE SAIDI,Male,HGL,True,False,ID_SCH_567085
+ID_LRN_814479,,Niyomugabo David (L5),Male,L3 Building Construction,False,False,
+ID_LRN_738399,,Usenzarasubizwa Patrick (L5),Male,L3 Building Construction,True,False,ID_SCH_155196
+ID_LRN_506036,,Dukuzumuremyi Evodie,Female,L3 Food Processing,True,False,ID_SCH_155196
+ID_LRN_982541,,Ahishakiye Claude,Male,L3 Building Construction,True,False,ID_SCH_155196
+ID_LRN_367985,,Dusabimana Olivier,Male,L3 Building Construction,True,False,ID_SCH_155196
+ID_LRN_241821,,Byiringiro Innocent,Male,L3 Food Processing,True,False,ID_SCH_155196
+ID_LRN_272322,,Egide Ndikubwayo,Male,L3 Building Construction,True,False,ID_SCH_155196
+ID_LRN_385065,,Habumugisha Jean D'Amour,Male,L3 Building Construction,True,False,ID_SCH_155196
+ID_LRN_040654,,Manirakiza Patrick,Male,L3 Building Construction,True,False,
+ID_LRN_130534,,Uwera Naome,Female,L3 Food Processing,True,False,
+ID_LRN_276714,,Uwamahoro Claudine,Female,L3 Food Processing,True,False,
+ID_LRN_156685,,Siborurema Obed,Male,L3 Building Construction,True,False,ID_SCH_155196
+ID_LRN_861078,,Hagumimana Theogene,Male,L3 Food Processing,True,False,ID_SCH_155196
+ID_LRN_225597,,Nishimwe Josue,Male,L3 Food Processing,True,False,
+ID_LRN_759239,,Niyizarera Vanessa,Female,L3 Food Processing,True,False,ID_SCH_155196
+ID_LRN_919612,,Nidufashe Emmanuel,Male,L3 Building Construction,True,False,ID_SCH_155196
+ID_LRN_099546,,John Irumva,Male,L3 Building Construction,True,False,ID_SCH_155196
+ID_LRN_011770,,Abikunda Michel,Male,L3 Building Construction,False,False,
+ID_LRN_778441,,Iransubije Jacqueline,Female,L3 Food Processing,True,False,
+ID_LRN_737538,,Munezero Kennedy,Male,L3 Building Construction,True,False,ID_SCH_155196
+ID_LRN_670129,,Gihozo Innocent,Female,L3 Food Processing,True,False,
+ID_LRN_399308,,Rugendo Yvan Axelle,Male,L3 Food Processing,True,False,ID_SCH_155196
+ID_LRN_102040,,Ahishakiye Anitha,Female,L3 Food Processing,True,False,
+ID_LRN_364228,,Uwayo Anitha Sandrine,Female,L3 Building Construction,False,False,
+ID_LRN_174070,,Habumugisha Philemon,Male,L3 Food Processing,True,False,
+ID_LRN_622709,,Mahoro Esther,Female,HGL,True,False,ID_SCH_784483
+ID_LRN_590242,,Nishemezwe Daniella Erlande Ange,Female,MCE,True,False,ID_SCH_784483
+ID_LRN_460189,,Dusenayo Phedine,Female,PCB,True,False,ID_SCH_784483
+ID_LRN_433813,,Iradukunda Mahoro Sandra,Female,MCE,True,False,ID_SCH_784483
+ID_LRN_197683,,Gasana Ineza Shukuru Gabriel,Male,MCE,True,False,ID_SCH_784483
+ID_LRN_820276,,Ibyikora Sifa,Female,MCE,False,False,
+ID_LRN_393943,,Yves Turayishimiye,Male,MPC,True,False,ID_SCH_784483
+ID_LRN_795045,,Junior Jabo Gabiro,Male,MPC,True,False,ID_SCH_784483
+ID_LRN_125103,,Niyogisubizo Fille,Female,PCB,False,False,ID_SCH_784483
+ID_LRN_438520,,Irakoze Joseph,Male,PCB,True,False,ID_SCH_784483
+ID_LRN_757076,,Umutesiwase Sandrine,Female,PCB,True,False,ID_SCH_784483
+ID_LRN_739049,,Manzi Deco Arsene,Male,MCE,True,False,ID_SCH_784483
+ID_LRN_660877,,Mutesi Ruth,Female,MCE,True,False,ID_SCH_784483
+ID_LRN_316144,,Mutoni Janvier,Female,MPC,True,False,ID_SCH_784483
+ID_LRN_769279,,Ubwizabwimana Darlene,Female,MCE,True,False,ID_SCH_784483
+ID_LRN_336774,,Byiringiro Justin,Male,PCB,True,False,ID_SCH_784483
+ID_LRN_778627,,Uwase Patience,Female,MCE,True,False,ID_SCH_784483
+ID_LRN_180590,,Nirere Joy,Female,MCE,True,False,ID_SCH_784483
+ID_LRN_792254,,Ndicunguye Dieu Merci Jesus,Male,MEG,True,False,ID_SCH_784483
+ID_LRN_493622,,Uwase Sandrine,Female,MEG,True,False,
+ID_LRN_218690,,Cyuzuzo Hope,Female,PCB,True,False,ID_SCH_784483
+ID_LRN_293047,,Umutoniwase Annick,Female,HGL,True,False,ID_SCH_784483
+ID_LRN_621209,,Uwineza Antoinette,Female,MCE,True,False,ID_SCH_784483
+ID_LRN_543308,,Musoni Patrick,Male,HGL,True,False,ID_SCH_784483
+ID_LRN_791774,,Mukandakebuka Assoumpta,Female,MCE,True,False,ID_SCH_784483
+ID_LRN_366667,,Muberwa Achille,Male,MCE,True,False,ID_SCH_784483
+ID_LRN_055446,,Niyonkuru Celse Kenny,Male,HGL,True,False,ID_SCH_784483
+ID_LRN_384095,,Ingabire Solaya,Female,PCB,True,False,ID_SCH_784483
+ID_LRN_633975,,Mukeshimana Placidia,Female,MCE,True,False,ID_SCH_784483
+ID_LRN_055221,,Byiringiro Heritier,Male,MCE,True,False,ID_SCH_784483
+ID_LRN_932907,,MUDUMIZI KENNY,Male,MPG,True,False,ID_SCH_030625
+ID_LRN_001234,,NTIHARIRIZWA CAMELLA,Female,HLP,True,False,ID_SCH_030625
+ID_LRN_397780,,IRAKOZE JOYEUSE MILINTHIA,Female,HLP,True,False,ID_SCH_030625
+ID_LRN_716738,,ISHIMWE KAMANZI FAVOUR,Male,MCB,True,False,ID_SCH_030625
+ID_LRN_461109,,TUNEZERWE THEONESTE,Male,MPG,True,False,ID_SCH_030625
+ID_LRN_807870,,BYIRINGIRO ALLOYS,Male,MCB,True,False,ID_SCH_030625
+ID_LRN_553996,,AGATORE ANGE BETINA,Female,MCB,True,False,ID_SCH_030625
+ID_LRN_442572,,MAKAMBAZA RITA,Female,PCB,True,False,ID_SCH_030625
+ID_LRN_458523,,Abatesi Hope,Male,HLP,True,False,ID_SCH_030625
+ID_LRN_806953,,KAYIRANGWA ARLETTE,Female,MCB,True,False,ID_SCH_030625
+ID_LRN_984154,,MUTONI NADIA,Female,HGL,True,False,ID_SCH_030625
+ID_LRN_646358,,BEZA BELEN DHORIANE,Male,MPG,True,False,ID_SCH_030625
+ID_LRN_694207,,Ineza  HOPE,Female,HLP,True,False,ID_SCH_030625
+ID_LRN_412136,,MUHIRWA YONGGI CHO,Male,MCB,True,False,ID_SCH_030625
+ID_LRN_243616,,Tunganirimana Nelly Vanessa,Female,HGL,True,False,ID_SCH_030625
+ID_LRN_949737,,SEBAGANGI CALEB,Male,MPG,True,False,ID_SCH_030625
+ID_LRN_601655,,NTIYOBERWA ERNY DICARD,Male,HLP,True,False,ID_SCH_030625
+ID_LRN_313131,,SEZERANO KELLY,Female,PCB,True,False,ID_SCH_030625
+ID_LRN_565259,,NIYOMUNGERE Claude,Male,PCB,True,False,ID_SCH_030625
+ID_LRN_468285,,Hirwa Sehigi Marcel,Male,MCB,True,False,ID_SCH_030625
+ID_LRN_779304,,RUGABIRWA MAXIME,Male,MPG,True,False,ID_SCH_030625
+ID_LRN_023847,,SEZERANO SHELTA MAIVA,Female,HLP,True,False,ID_SCH_030625
+ID_LRN_028944,,NDAYIKENGURUKIYE HUNGU,Male,MCB,True,False,ID_SCH_030625
+ID_LRN_514302,,Nyampinga Christella,Female,HLP,True,False,ID_SCH_030625
+ID_LRN_252034,,NGOGA JEFF SAMIR,Male,MPG,True,False,ID_SCH_030625
+ID_LRN_787208,,MANISHIMWE ADELINE,Female,MCB,True,False,ID_SCH_030625
+ID_LRN_264948,,AKWIRA Beni Bruce,Male,PCB,True,False,ID_SCH_030625
+ID_LRN_320462,,MUVUNYI TETA NADINE,Female,MPG,True,False,ID_SCH_030625
+ID_LRN_928314,,IRISHURA JOEL,Male,MCB,True,False,ID_SCH_030625
+ID_LRN_610450,,MUNYANSANGA Ihozo Lyna OUMAILLAH,Female,HGL,True,False,ID_SCH_030625
+ID_LRN_753283,,Niyigena Edith,Female,MCB,True,False,ID_SCH_749704
+ID_LRN_577958,,Imanishimwe Thierry,Male,MCB,True,False,ID_SCH_749704
+ID_LRN_311964,,Rwibutso Hamza,Male,MCB,True,False,ID_SCH_749704
+ID_LRN_508070,,Mugisha Jacques,Male,MCB,True,False,ID_SCH_749704
+ID_LRN_427902,,Manirakoze Pacifque,Male,PCB,True,False,ID_SCH_749704
+ID_LRN_210598,,Mutesiwase Sifa,Female,MCB,True,False,ID_SCH_749704
+ID_LRN_915178,,Izere Ange Prince,Male,MCB,True,False,ID_SCH_749704
+ID_LRN_718270,,Habumugisha Theoneste,Male,MCB,True,False,
+ID_LRN_422627,,Munezero Aime Sympathique,Male,PCB,True,False,ID_SCH_749704
+ID_LRN_690313,,Moise Kwizera,Male,MCB,True,False,ID_SCH_749704
+ID_LRN_613141,,Rukundo Pacifique,Male,MCB,True,False,ID_SCH_749704
+ID_LRN_448083,,Ishimwe Sharif,Male,MCB,True,False,ID_SCH_749704
+ID_LRN_222124,,Mutoniwase Eline,Female,PCB,True,False,ID_SCH_749704
+ID_LRN_089739,,Niragire Jean Bosco,Male,MCB,True,False,ID_SCH_749704
+ID_LRN_713386,,Uwimana Sangwa Bienvenue,Male,MCB,True,False,ID_SCH_749704
+ID_LRN_008942,,Mugisha Samuel,Male,MPG,True,False,
+ID_LRN_871985,,Mizero Devotha,Female,PCB,True,False,ID_SCH_749704
+ID_LRN_801840,,Kwizera Eric,Male,MPG,True,False,ID_SCH_749704
+ID_LRN_037082,,Iragena Yvette,Female,MCB,True,False,ID_SCH_749704
+ID_LRN_867044,,Ikuzwe Samuel,Male,PCB,True,False,ID_SCH_749704
+ID_LRN_382404,,Ingabire Happiness,Female,MCB,True,False,ID_SCH_749704
+ID_LRN_372955,,Manzi Amani Yannick,Male,MCB,True,False,ID_SCH_749704
+ID_LRN_566592,,Elisa Kwizera,Male,MCB,True,False,ID_SCH_749704
+ID_LRN_777473,,Butobwintobo Nziza Rene,Male,MPG,True,False,ID_SCH_749704
+ID_LRN_854060,,Niyigaba Patrick,Male,MCB,True,False,ID_SCH_749704
+ID_LRN_551284,,NDARISHIZE Aimable,Male,MCE,True,False,ID_SCH_271223
+ID_LRN_016866,,GANZA Nesta,Male,MCE,True,False,ID_SCH_271223
+ID_LRN_113130,,UWASE Bella Cynthia,Female,MCE,True,False,ID_SCH_271223
+ID_LRN_648195,,NTEZIMANA Jean Felix,Male,LFK,True,False,ID_SCH_271223
+ID_LRN_363211,,GISUBIZO Aime Blandine,Female,MCE,True,False,ID_SCH_271223
+ID_LRN_016329,,GIRAMATA Benitha,Female,LFK,True,False,ID_SCH_271223
+ID_LRN_897031,,INGABIRE Bora Cynthia,Female,MCE,True,False,ID_SCH_271223
+ID_LRN_675477,,NIZEYIMANA Remy,Male,MCE,True,False,ID_SCH_271223
+ID_LRN_371723,,RUGIRA CYIZA Edwin,Male,MCE,True,False,ID_SCH_271223
+ID_LRN_252414,,UWASE Princess,Female,MCE,True,False,ID_SCH_271223
+ID_LRN_696572,,UWAMAHIRWE Patrick,Male,LFK,True,False,ID_SCH_271223
+ID_LRN_204878,,NSHIMIYIMANA Robert,Male,MCE,True,False,ID_SCH_271223
+ID_LRN_219936,,ITANGIMBABAZI Lines,Female,MCE,True,False,ID_SCH_271223
+ID_LRN_368233,,KWIZERA NEZA Bruce,Male,MCE,True,False,ID_SCH_271223
+ID_LRN_536682,,HABIYAREMYE Elyse,Male,MCE,True,False,ID_SCH_271223
+ID_LRN_089500,,ISHIMWE Christian,Male,MCE,True,False,ID_SCH_271223
+ID_LRN_559200,,UWAHAMAGAWE Samuel,Male,MCE,True,False,ID_SCH_271223
+ID_LRN_500570,,ISHIMWE NDAMUTSA Wivine,Female,MCE,True,False,ID_SCH_271223
+ID_LRN_081126,,NTIRAMPEBA Naome,Female,LFK,True,False,ID_SCH_271223
+ID_LRN_780132,,UWIZEYIMANA Anitha,Female,MCE,True,False,ID_SCH_271223
+ID_LRN_830381,,NTEZIREMBO Evariste,Male,MCE,True,False,ID_SCH_271223
+ID_LRN_603384,,KABAYIZA Ineza Livine,Female,LFK,True,False,ID_SCH_271223
+ID_LRN_874092,,NSANZIMANA Jean,Male,MCE,True,False,ID_SCH_271223
+ID_LRN_058335,,BUGINGO Kenny,Male,MCE,True,False,ID_SCH_271223
+ID_LRN_132900,,NIYONAMBAZA Obed,Male,MCB,True,False,ID_SCH_271223
+ID_LRN_192653,,Inganji Mucyo Thierry Nillan,Male,S2,True,False,
+ID_LRN_644981,,Tugirimana Jacques,Male,S2,True,False,
+ID_LRN_296188,,Iradukunda Fabrice,Male,S2,True,False,
+ID_LRN_081336,,Uwikunda Queen Samuella,Female,S2,True,False,
+ID_LRN_131900,,Elvis Igiraneza,Male,S2,True,False,ID_SCH_149854
+ID_LRN_779789,,Rukundo Edison,Male,S2,True,False,
+ID_LRN_878536,,Sedjidi Nsengiyumva,Male,S2,True,False,
+ID_LRN_334389,,Tuyisenge Agape,Female,S2,True,False,
+ID_LRN_681541,,Karenzi Hussuman,Male,S2,True,False,ID_SCH_149854
+ID_LRN_118253,,Kevin Gisubizo,Male,S2,True,False,ID_SCH_149854
+ID_LRN_667247,,Ezra Dushime,Male,S2,True,False,
+ID_LRN_291608,,Izere Christa,Female,S2,True,False,
+ID_LRN_705148,,Rehema Tuyishimire,Female,S2,True,False,
+ID_LRN_138606,,Shema Kenny,Male,S2,True,False,ID_SCH_149854
+ID_LRN_651264,,Irakoze Kenny,Male,S2,True,False,ID_SCH_149854
+ID_LRN_298288,,Hirwa Pio,Male,MCB,True,False,ID_SCH_585777
+ID_LRN_359306,,Ishimwe Baraka Jehovanisi,Female,MCB,True,False,ID_SCH_585777
+ID_LRN_800992,,Irahagije Dieu Merci,Male,MCB,True,False,ID_SCH_585777
+ID_LRN_505430,,Bahera Irinda Fidella,Female,MCE,True,False,ID_SCH_585777
+ID_LRN_641832,,Bavumiragira Bernard,Male,MCB,True,False,ID_SCH_585777
+ID_LRN_035257,,Tuyizere Chantal,Female,MCB,True,False,ID_SCH_585777
+ID_LRN_607480,,Cyuzuzo Nelson,Male,MCB,True,False,ID_SCH_585777
+ID_LRN_814290,,Gatesi Aurore,Female,MCE,True,False,ID_SCH_585777
+ID_LRN_784117,,Dusengimana Ramille,Female,MCB,True,False,
+ID_LRN_369067,,Uwamahoro Deborah,Female,MCB,True,False,ID_SCH_585777
+ID_LRN_610614,,Uwumugisha Blaise,Male,PCM,True,False,ID_SCH_585777
+ID_LRN_434212,,Nshizirungu Sabin Salatiel,Male,MCE,True,False,ID_SCH_585777
+ID_LRN_728723,,Ufite Inema Twahirwa Roi Emerry,Female,MCB,True,False,ID_SCH_585777
+ID_LRN_731153,,Irakoze Rene Joy,Male,MCB,True,False,ID_SCH_585777
+ID_LRN_867874,,igiribambe Inezayase Theophilla,Female,MCB,True,False,ID_SCH_585777
+ID_LRN_350199,,Eline Uwiduhaye,Female,MCB,True,False,ID_SCH_585777
+ID_LRN_803232,,Mugisha Patrick,Male,MCB,True,False,ID_SCH_585777
+ID_LRN_893776,,Cyiza Cedrick,Male,MCB,True,False,ID_SCH_585777
+ID_LRN_147095,,Uwumukiza Sylvan,Male,MCB,True,False,ID_SCH_585777
+ID_LRN_773740,,Ineza Nisegusa Sierra,Female,MCB,True,False,ID_SCH_585777
+ID_LRN_470312,,Sibomana Josue,Male,MCB,True,False,ID_SCH_585777
+ID_LRN_081477,,Arstide Umuhire,Male,MCB,True,False,ID_SCH_585777
+ID_LRN_794381,,Irumva Enock,Male,PCB,True,False,ID_SCH_585777
+ID_LRN_924330,,Nishimwe Jacques,Male,PCB,True,False,ID_SCH_585777
+ID_LRN_632129,,Manirakiza Ernest,Male,MCB,True,False,ID_SCH_585777
+ID_LRN_283854,,Akarabo Elvire Magnificat,Female,PCB,True,False,ID_SCH_663074
+ID_LRN_821457,,Igiraneza Ange Kellia,Female,MPC,True,False,ID_SCH_663074
+ID_LRN_431432,,Uwineza Nice Signoline,Female,MPC,True,False,ID_SCH_663074
+ID_LRN_165463,,Uwanyirigira Yvette Divine,Female,PCB,True,False,ID_SCH_663074
+ID_LRN_831466,,Irakoze Neema,Female,PCB,True,False,ID_SCH_663074
+ID_LRN_562808,,Mutesi Kevine Rwaka,Female,PCB,True,False,ID_SCH_663074
+ID_LRN_967247,,Isano Gerardine,Female,MPC,True,False,ID_SCH_663074
+ID_LRN_476894,,Mushimire Ariella Lydienne,Female,MPC,True,False,ID_SCH_663074
+ID_LRN_483066,,Niyonshuti Queen Fabiola,Female,MPC,True,False,ID_SCH_663074
+ID_LRN_023171,,Tuyisenge Fabiola,Female,PCB,True,False,ID_SCH_663074
+ID_LRN_762618,,Munezero Ngirabatware Charline,Female,MCB,True,False,ID_SCH_663074
+ID_LRN_953020,,Rwabagabo Munezero Daniella,Female,PCB,True,False,ID_SCH_663074
+ID_LRN_313938,,Dushime Peace Gloria,Female,MCB,True,False,ID_SCH_663074
+ID_LRN_112132,,Usabuwera Blessing Albright,Female,MCB,True,False,ID_SCH_663074
+ID_LRN_506199,,Kaliza Leah,Female,PCB,True,False,ID_SCH_663074
+ID_LRN_631608,,Mucyo Habumuremyi Noella,Female,PCB,True,False,ID_SCH_663074
+ID_LRN_443125,,Irakoze Marie Grace,Female,MPC,True,False,ID_SCH_663074
+ID_LRN_258599,,Ihirwe Shekinah,Female,MPC,True,False,ID_SCH_663074
+ID_LRN_329969,,Ineza Irene,Female,PCB,True,False,ID_SCH_663074
+ID_LRN_215135,,Tumukunde Ikuwe Alliance,Female,MPC,True,False,ID_SCH_663074
+ID_LRN_986300,,Masengesho Halley,Female,MCB,True,False,ID_SCH_663074
+ID_LRN_538329,,Marie Alliance Ishimwe Manziyimana,Female,MPC,True,False,ID_SCH_663074
+ID_LRN_584958,,Isimbi Karangwa Yousra,Female,MCB,True,False,ID_SCH_663074
+ID_LRN_657993,,Irakoze Chance Emeline,Female,MCB,True,False,ID_SCH_663074
+ID_LRN_444201,,Uwiduhaye Dynamique Solange,Female,MCB,True,False,ID_SCH_663074
+ID_LRN_641490,,Byiringiro Emmanuel,Male,PCB,True,False,
+ID_LRN_566643,,Kagabo Jackson,Male,HGL,True,False,ID_SCH_066153
+ID_LRN_348397,,Byusa Alex,Male,PCB,True,False,ID_SCH_066153
+ID_LRN_206333,,Niyonzima Eric,Male,PCB,True,False,
+ID_LRN_516289,,Kansime Joan,Female,PCB,True,False,ID_SCH_066153
+ID_LRN_591214,,Kayitesi Sandrine,Female,MCB,True,False,ID_SCH_066153
+ID_LRN_238495,,Ntwari Manzi Fiston,Male,PCB,True,False,ID_SCH_066153
+ID_LRN_769668,,Umulisa Angel,Female,MCB,True,False,ID_SCH_066153
+ID_LRN_339233,,Gatsigazi Alex,Male,PCB,True,False,ID_SCH_066153
+ID_LRN_945508,,Kashemera Cate,Female,PCB,True,False,ID_SCH_066153
+ID_LRN_139928,,Iratuzi Evode,Male,MCB,True,False,ID_SCH_066153
+ID_LRN_941698,,Birujujwe Elie,Male,MPG,True,False,ID_SCH_066153
+ID_LRN_506862,,Habumugisha Fred,Male,PCB,True,False,ID_SCH_066153
+ID_LRN_459605,,Uhiriwe Aline,Female,MEG,True,False,ID_SCH_066153
+ID_LRN_823977,,Niyigaba Vicent,Male,PCB,True,False,ID_SCH_066153
+ID_LRN_287763,,Mugabe King,Male,PCB,True,False,ID_SCH_066153
+ID_LRN_677823,,Mbayiha Ismael,Male,PCB,True,False,ID_SCH_066153
+ID_LRN_927851,,Ishimwe Frank,Male,PCB,True,False,
+ID_LRN_162509,,Manirakiza Evode,Male,MCB,True,False,
+ID_LRN_649567,,Sangwa Sveta Karen,Female,HGL,True,False,
+ID_LRN_090381,,Akunda Sarah Clouder,Female,HGL,True,False,ID_SCH_066153
+ID_LRN_548175,,Eric Tuyishimire,Male,MCB,True,False,ID_SCH_066153
+ID_LRN_119621,,Gihozo Sandrine,Female,MCB,True,False,ID_SCH_066153
+ID_LRN_243620,,Mwojo Elisa,Male,HGL,True,False,ID_SCH_066153
+ID_LRN_452893,,Ndungutse Fred,Male,MEG,True,False,ID_SCH_066153
+ID_LRN_662794,,Kundwa Joyce,Female,PCB,True,False,ID_SCH_751636
+ID_LRN_323409,,Keza Lisah,Female,MCE,True,False,ID_SCH_751636
+ID_LRN_629840,,Kaliza Ella Samantha,Female,MCE,True,False,ID_SCH_751636
+ID_LRN_462552,,Amizero Annie Kevine,Female,PCB,True,False,ID_SCH_751636
+ID_LRN_258928,,Iragena Peruth,Female,MCB,True,False,ID_SCH_751636
+ID_LRN_566242,,Manishimwe Honorine,Female,PCB,True,False,ID_SCH_751636
+ID_LRN_136383,,Mutesi Peace,Female,MCE,True,False,ID_SCH_751636
+ID_LRN_126422,,Joyce Sab Uhiriwe,Female,PCB,True,False,ID_SCH_751636
+ID_LRN_084840,,Kamikazi Esther,Female,MCE,True,False,ID_SCH_751636
+ID_LRN_819450,,Gihozo Yvette Gloria,Female,PCB,False,False,
+ID_LRN_364551,,Maombi Fiacre,Female,PCB,True,False,ID_SCH_751636
+ID_LRN_097093,,Cyuzuzo Nzayisenga Gyslaine,Female,PCB,True,False,ID_SCH_751636
+ID_LRN_602582,,Dusabeyezu Huguette Parfaite,Female,MCE,True,False,
+ID_LRN_582505,,Ruziki Foibe,Female,MCE,True,False,ID_SCH_751636
+ID_LRN_941531,,Umurerwa Emelyne,Female,MCE,True,False,
+ID_LRN_493141,,Uwase Nusura,Female,PCB,True,False,
+ID_LRN_173629,,Niyogisubizo Alice,Female,MCB,True,False,ID_SCH_751636
+ID_LRN_814637,,Uwase Marie Louise,Female,PCB,True,False,
+ID_LRN_708997,,Anitha Irakoze,Female,MCB,True,False,ID_SCH_751636
+ID_LRN_403837,,Musabyimana Febronie,Female,MCB,True,False,ID_SCH_751636
+ID_LRN_464732,,Iribagiza Kevine,Female,MCE,True,False,ID_SCH_751636
+ID_LRN_738609,,Chania Ikirezi Mutabaruka,Female,MCE,True,False,ID_SCH_751636
+ID_LRN_093134,,Umutoni Yokebedi,Female,MCE,True,False,ID_SCH_751636
+ID_LRN_804684,,Ingabire Asifiwe,Female,MCB,True,False,ID_SCH_751636
+ID_LRN_823680,,Gihozo Rosine,Female,MCB,True,False,ID_SCH_751636
+ID_LRN_145428,,Twahirwa Ange Kelia,Female,MCE,True,False,ID_SCH_185679
+ID_LRN_503664,,Ineza Angelo Samuel,Male,MCE,True,False,ID_SCH_185679
+ID_LRN_584290,,Twiringiyimana Gilbert,Male,MCE,True,False,ID_SCH_185679
+ID_LRN_948316,,Asifiwe Remy,Male,MCE,True,False,ID_SCH_185679
+ID_LRN_626903,,Habiyakare Erneste,Male,MEG,True,False,
+ID_LRN_257608,,Mucyo Christian,Male,MCE,True,False,
+ID_LRN_956408,,Maliza Louange,Female,MEG,True,False,ID_SCH_185679
+ID_LRN_525167,,Nishimwe Uwase Nadine,Female,MCE,True,False,ID_SCH_185679
+ID_LRN_160796,,Tuyizere Nadine,Female,MCE,True,False,ID_SCH_185679
+ID_LRN_388462,,Muvunyi Tuyishime Edmond,Male,MCE,True,False,ID_SCH_185679
+ID_LRN_920243,,Kuberimana Rene,Male,MCE,True,False,
+ID_LRN_667974,,Byiringiro Jacques,Male,MCE,False,False,ID_SCH_585777
+ID_LRN_506876,,Ndayisenga Aliyasa,Male,MCE,True,False,ID_SCH_185679
+ID_LRN_596202,,Habumugisha Jean Pierre,Male,MCE,True,False,
+ID_LRN_497743,,Irasubiza Eric,Male,MEG,True,False,ID_SCH_204644
+ID_LRN_998137,,Ishimwe Hirwa Levis,Male,MCE,True,False,ID_SCH_185679
+ID_LRN_023729,,Niyonagira Pacifique,Female,MCE,True,False,
+ID_LRN_639295,,Umuganwa Queen Kelsie,Female,MCE,True,False,ID_SCH_185679
+ID_LRN_996643,,Gisubizo Murere Sammy,Male,MCE,True,False,ID_SCH_185679
+ID_LRN_467107,,Irasubiza Pacifique,Male,MCE,True,False,ID_SCH_185679
+ID_LRN_732305,,Byiringiro Kevin,Male,MEG,True,False,
+ID_LRN_194811,,Nziza Aime,Male,MCE,True,False,ID_SCH_185679
+ID_LRN_515494,,Byiringiro Irene,Male,MEG,True,False,ID_SCH_185679
+ID_LRN_587981,,Umutoniwase Sandrine,Female,MEG,True,False,ID_SCH_185679
+ID_LRN_921965,,Ibyikora Donath,Male,MCE,True,False,ID_SCH_185679
+ID_LRN_454976,,Nshimyumuremyi Japhar,Male,PCB,True,False,ID_SCH_068801
+ID_LRN_211721,,Mugabe Irene,Male,PCB,True,False,ID_SCH_068801
+ID_LRN_249606,,Dufitimana Caleb,Male,HGL,True,False,ID_SCH_068801
+ID_LRN_979502,,Niyonkuru Christian,Male,HGL,True,False,
+ID_LRN_711058,,Manzi Teta Aliane,Female,PCB,True,False,
+ID_LRN_213068,,Uwimana Dina,Female,HGL,True,False,ID_SCH_068801
+ID_LRN_306364,,Ndayishimiye Claude,Male,PCB,True,False,
+ID_LRN_817827,,Ikimpaye Sandrine,Female,HGL,True,False,
+ID_LRN_271561,,Ishimwe Armand,Male,LFK,True,False,
+ID_LRN_457286,,Tuyishimire Naome,Female,HGL,True,False,ID_SCH_068801
+ID_LRN_160587,,Itangishaka Olive,Female,LFK,True,False,
+ID_LRN_873467,,Ishimwe Clement,Male,LFK,True,False,
+ID_LRN_940805,,Itangumugisha Frida,Female,PCB,False,False,
+ID_LRN_760227,,Mugabe Christian,Male,PCB,True,False,ID_SCH_068801
+ID_LRN_889907,,Irakoze Diane,Female,HGL,False,False,ID_SCH_749630
+ID_LRN_334903,,Bazitegekiki Belyse,Female,PCB,True,False,ID_SCH_068801
+ID_LRN_607488,,Umukundwanase Iness,Female,HGL,True,False,ID_SCH_068801
+ID_LRN_930651,,Akariza Queen,Female,LFK,True,False,
+ID_LRN_838396,,Mugisha Justin,Male,HGL,True,False,ID_SCH_068801
+ID_LRN_160736,,Ndayishimiye Regis,Male,PCB,True,False,
+ID_LRN_951141,,Uwimana Olive Keza,Female,HGL,True,False,
+ID_LRN_621498,,Umurerwa Milliam,Female,LFK,True,False,
+ID_LRN_200347,,Iradukunda Liliane,Female,PCB,True,False,
+ID_LRN_216138,,Nkuzimana Gad,Male,LFK,True,False,
+ID_LRN_205640,,Uwayo Hyacenta,Female,LFK,True,False,
+ID_LRN_504152,,Izere Jean Bosco,Male,L4BDC,True,False,ID_SCH_204644
+ID_LRN_157445,,Cyizere Aphrodis,Male,HGL,True,False,ID_SCH_204644
+ID_LRN_894674,,Deborah Iranejeje,Female,MCB,True,False,ID_SCH_204644
+ID_LRN_801181,,Byishimo Placide,Male,MCB,True,False,ID_SCH_204644
+ID_LRN_955392,,Kevine Ingabire,Female,MCB,True,False,ID_SCH_204644
+ID_LRN_136473,,Gihozo Abdullah,Male,HGL,True,False,ID_SCH_204644
+ID_LRN_516164,,Niyomukiza Egide,Male,LFK,True,False,ID_SCH_204644
+ID_LRN_392621,,Patrick Habineza,Male,L4AGR,False,False,
+ID_LRN_937540,,Ishimwe Emmanuel,Male,MCB,True,False,ID_SCH_204644
+ID_LRN_182570,,Ndayishimiye Eric,Male,L4BDC,True,False,ID_SCH_204644
+ID_LRN_124154,,Irasubiza Natacha,Female,MCB,True,False,ID_SCH_204644
+ID_LRN_437188,,Niyogushimwa Sallah,Female,MCB,True,False,ID_SCH_204644
+ID_LRN_651756,,Benegusenga Ange Fabiola,Female,L4BDC,True,False,ID_SCH_204644
+ID_LRN_968858,,Irasubiza Hycentha,Female,HGL,True,False,ID_SCH_204644
+ID_LRN_117492,,Munezero Olivier,Male,L4BDC,True,False,ID_SCH_204644
+ID_LRN_669889,,Uwase Sandrine,Female,LFK,True,False,ID_SCH_784483
+ID_LRN_666033,,Mugiraneze Prosper,Male,L4BDC,True,False,ID_SCH_204644
+ID_LRN_683791,,Bihoyiki Jean De Dieu,Male,L4BDC,True,False,ID_SCH_204644
+ID_LRN_535151,,Byiringiro Claudette,Female,L4AGR,True,False,ID_SCH_204644
+ID_LRN_426972,,Kuberimana Cynthia,Female,LFK,True,False,ID_SCH_204644
+ID_LRN_479199,,Tuyishimire Patrick,Male,HGL,True,False,ID_SCH_204644
+ID_LRN_584981,,Pfukamusenge Constatine,Female,L4AGR,True,False,ID_SCH_204644
+ID_LRN_588179,,Dusabima Henritte,Female,MCB,True,False,ID_SCH_204644
+ID_LRN_984304,,Ndayisenga Olivier,Male,L4AGR,True,False,ID_SCH_204644
+ID_LRN_408193,,Uwiringiyimana Elenest,Male,L4BDC,True,False,ID_SCH_204644
+ID_LRN_027761,,Leonce Nishimirwe,Female,MEG,True,False,ID_SCH_308428
+ID_LRN_958166,,Nadia Bamurebe,Female,HGL,False,False,
+ID_LRN_333558,,Tom Kagwisagye,Male,HGL,True,False,ID_SCH_308428
+ID_LRN_630985,,Yvonne Uwanyirimpuhwe,Female,MEG,True,False,ID_SCH_308428
+ID_LRN_116914,,Safi Uwineza,Female,HGL,True,False,ID_SCH_308428
+ID_LRN_536453,,Seraphine Ufitinema,Female,LFK,True,False,ID_SCH_308428
+ID_LRN_904979,,Claude Irabizi,Male,LFKK,True,False,ID_SCH_308428
+ID_LRN_274861,,Moses Nsegiyumva,Male,MEG,True,False,ID_SCH_308428
+ID_LRN_105301,,Divine Irasubiza,Female,MEG,True,False,ID_SCH_308428
+ID_LRN_030164,,Carine Mutanganda,Female,HGL,True,False,ID_SCH_308428
+ID_LRN_267524,,Carine Uwacu,Female,HGL,True,False,ID_SCH_308428
+ID_LRN_851455,,Kezia Umubyeyi,Female,LFK,True,False,ID_SCH_308428
+ID_LRN_293511,,Zawadi Mutoni,Female,MEG,True,False,ID_SCH_308428
+ID_LRN_974337,,Honorine Irasubiza,Female,MEG,True,False,ID_SCH_308428
+ID_LRN_572487,,Dieudonne Ndahimana,Male,MEG,True,False,ID_SCH_308428
+ID_LRN_004212,,Sharon Mukundwa,Female,HGL,True,False,ID_SCH_308428
+ID_LRN_106166,,David Kagame,Male,HGL,True,False,ID_SCH_308428
+ID_LRN_379062,,Peace Nakunda-,Female,Maths Science,True,False,ID_SCH_308428
+ID_LRN_659823,,Keilla Mahoro,Female,MEG,True,False,ID_SCH_308428
+ID_LRN_546980,,Serapie Mukeshimana,Female,MEG,True,False,ID_SCH_308428
+ID_LRN_888845,,Esther Igihozo,Female,MEG,True,False,ID_SCH_308428
+ID_LRN_436859,,Allen Kayesu,Female,HGL,True,False,
+ID_LRN_404688,,Zubert Dukizimungu,Male,LFK,True,False,ID_SCH_308428
+ID_LRN_043671,,Eric Mugisha,Male,MEG,True,False,
+ID_LRN_106392,,Elisa Bizimana,Male,LFK,True,False,ID_SCH_308428
+ID_LRN_410934,,Fabrice Manzi,Male,LFK,True,False,ID_SCH_308428
+ID_LRN_955684,,Aimee Murengezi,Male,HGL,True,False,ID_SCH_308428
+ID_LRN_864399,,Aimee Izerwa,Male,LFK,True,False,ID_SCH_308428
+ID_LRN_521008,,Jean-Pierre Kayiganwa,Male,LFK,True,False,ID_SCH_308428
+ID_LRN_888590,,Sandrine Ishimwe,Female,MEG,False,False,
+ID_LRN_973664,,Kelly Shumbusho,Male,MPC,True,False,ID_SCH_904726
+ID_LRN_931748,,Allen Batamuliza,Female,HGL,True,False,ID_SCH_904726
+ID_LRN_855580,,Mukama Kefa,Male,MPC,True,False,ID_SCH_904726
+ID_LRN_028692,,Bahige Barack Chris,Male,MCE,True,False,ID_SCH_904726
+ID_LRN_758765,,Aurore Kamoso,Female,MCE,True,False,ID_SCH_904726
+ID_LRN_597636,,Esther Shimwandawe,Female,MPC,True,False,ID_SCH_904726
+ID_LRN_234285,,Kessy Deluna,Female,MCE,True,False,ID_SCH_904726
+ID_LRN_465728,,Dylan Ndoba,Male,MPC,True,False,ID_SCH_904726
+ID_LRN_909800,,Kezia Ntwali,Female,HGL,True,False,ID_SCH_904726
+ID_LRN_097126,,David Ngoga,Male,MCB,True,False,ID_SCH_904726
+ID_LRN_655307,,Daniel Hirwa,Male,MCB,True,False,ID_SCH_904726
+ID_LRN_668779,,Elvis Rubayiza,Male,MPC,True,False,ID_SCH_904726
+ID_LRN_814988,,Gael Ganza,Male,MCE,True,False,ID_SCH_904726
+ID_LRN_362372,,Regis Akuzwe,Male,MCB,True,False,ID_SCH_904726
+ID_LRN_819852,,Shalon Umumarungu,Female,MEG,True,False,ID_SCH_904726
+ID_LRN_101978,,Sheja Gift Mukambiza,Male,MCE,True,False,ID_SCH_904726
+ID_LRN_767946,,Kevine Uwera,Female,MPG,True,False,ID_SCH_904726
+ID_LRN_912240,,Akaliza Giyana,Female,HGL,True,False,ID_SCH_904726
+ID_LRN_483413,,Niragire Rehema,Female,S2,True,False,ID_SCH_223450
+ID_LRN_850229,,Uwiringiyimana Albertine,Female,LFK,True,False,ID_SCH_145402
