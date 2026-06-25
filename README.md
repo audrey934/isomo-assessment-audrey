@@ -7,9 +7,9 @@ This project analyzes learner engagement by comparing engagement across learning
 - Which learners are actively engaging with the Typing and Quill learning platforms
 - Are the learners with the most engagement also the ones showing up in assessment records,  or are there gaps?
 
+---
 
-
-- LLM Used:isomo-assessment-Claude + Codex
+-LLM Used:isomo-assessment-Claude + Codex
 
 ## Repository structure
 | Folder | Contents |
